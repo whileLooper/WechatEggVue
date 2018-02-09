@@ -1,0 +1,109 @@
+2018-02-09 14:25:58,342 INFO 5137 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:25:58,342 INFO 5138 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:25:58,445 INFO 5140 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:25:58,383 INFO 5139 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:33:19,919 INFO 5497 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:33:19,920 INFO 5498 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:33:19,921 INFO 5499 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:33:19,919 INFO 5500 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:39:25,872 INFO 1424 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:39:25,872 INFO 1422 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:39:25,873 INFO 1423 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:39:25,883 INFO 1425 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:39:37,896 INFO 1425 [-/192.168.106.127/-/313ms GET /] [access] 192.168.106.127: - GET / HTTP/200 191626 - 285 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:43:31,545 INFO 1812 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:43:31,545 INFO 1810 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:43:31,545 INFO 1811 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:43:31,594 INFO 1813 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:43:45,614 INFO 1832 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:43:45,651 INFO 1833 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:43:45,653 INFO 1834 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:43:45,675 INFO 1835 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:48:18,715 INFO 1911 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:48:18,715 INFO 1913 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:48:18,715 INFO 1912 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:48:18,715 INFO 1914 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:51:26,946 INFO 1964 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:51:26,946 INFO 1961 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:51:26,946 INFO 1962 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:51:26,946 INFO 1963 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:51:35,012 INFO 1964 [-/192.168.106.127/-/184ms GET /] [access] 192.168.106.127: - GET / HTTP/200 2841 - 169 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:51:35,242 INFO 1961 [-/192.168.106.127/-/17ms GET /public/js/index/index.js] [access] 192.168.106.127: - GET /public/js/index/index.js HTTP/404 - http://192.168.106.127:7001/ 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:51:35,242 INFO 1963 [-/192.168.106.127/-/17ms GET /public/js/common.js] [access] 192.168.106.127: - GET /public/js/common.js HTTP/404 - http://192.168.106.127:7001/ 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:51:35,867 INFO 1964 [-/192.168.106.127/-/1ms GET /public/js/common.js] [access] 192.168.106.127: - GET /public/js/common.js HTTP/404 - http://192.168.106.127:7001/ 0 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:51:35,886 INFO 1964 [-/192.168.106.127/-/1ms GET /public/js/index/index.js] [access] 192.168.106.127: - GET /public/js/index/index.js HTTP/404 - http://192.168.106.127:7001/ 0 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:52:21,288 INFO 1983 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:52:21,288 INFO 1985 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:52:21,295 INFO 1984 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:52:21,290 INFO 1986 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:52:52,274 INFO 2071 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:52:52,275 INFO 2070 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:52:52,273 INFO 2069 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:52:52,273 INFO 2068 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:52:59,549 INFO 2071 [-/192.168.106.127/-/137ms GET /] [access] 192.168.106.127: - GET / HTTP/200 2841 - 113 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:52:59,871 INFO 2070 [-/192.168.106.127/-/32ms GET /public/js/common.js] [access] 192.168.106.127: - GET /public/js/common.js HTTP/404 - http://192.168.106.127:7001/ 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:52:59,882 INFO 2069 [-/192.168.106.127/-/35ms GET /public/js/index/index.js] [access] 192.168.106.127: - GET /public/js/index/index.js HTTP/404 - http://192.168.106.127:7001/ 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:53:00,642 INFO 2069 [-/192.168.106.127/-/2ms GET /public/js/common.js] [access] 192.168.106.127: - GET /public/js/common.js HTTP/404 - http://192.168.106.127:7001/ 0 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:53:00,678 INFO 2069 [-/192.168.106.127/-/1ms GET /public/js/index/index.js] [access] 192.168.106.127: - GET /public/js/index/index.js HTTP/404 - http://192.168.106.127:7001/ 0 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 14:53:29,605 INFO 2086 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:53:29,605 INFO 2088 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:53:29,628 INFO 2089 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:53:29,621 INFO 2087 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:56:47,484 INFO 2175 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:56:47,484 INFO 2173 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:56:47,484 INFO 2174 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:56:47,516 INFO 2176 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:58:50,135 INFO 2214 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:58:50,135 INFO 2217 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:58:50,139 INFO 2215 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 14:58:50,135 INFO 2216 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:53:46,461 INFO 2460 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:53:46,463 INFO 2459 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:53:46,461 INFO 2461 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:53:46,677 INFO 2462 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:53:58,037 INFO 2502 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:53:58,004 INFO 2501 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:53:58,011 INFO 2499 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:53:58,062 INFO 2500 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:55:39,142 INFO 2560 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:55:39,157 INFO 2561 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:55:39,144 INFO 2562 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:55:39,155 INFO 2563 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 15:55:48,476 INFO 2560 [-/192.168.20.78/-/209ms GET /] [access] 192.168.20.78: - GET / HTTP/200 191626 - 193 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:01:53,277 INFO 2767 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:01:53,277 INFO 2768 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:01:53,279 INFO 2769 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:01:53,301 INFO 2770 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:03:15,154 INFO 2807 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:03:15,154 INFO 2805 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:03:15,155 INFO 2806 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:03:15,155 INFO 2808 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:03:40,384 INFO 2812 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:03:40,388 INFO 2814 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:03:40,427 INFO 2813 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:03:40,396 INFO 2815 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:04:07,671 INFO 2817 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:04:07,672 INFO 2820 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:04:07,662 INFO 2819 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:04:07,776 INFO 2818 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:04:41,391 INFO 2827 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:04:41,401 INFO 2825 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:04:41,488 INFO 2828 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:04:41,472 INFO 2826 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:05:05,600 INFO 2836 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:05:05,602 INFO 2834 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:05:05,600 INFO 2835 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:05:05,611 INFO 2833 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:06:04,210 INFO 2845 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:06:04,211 INFO 2843 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:06:04,251 INFO 2846 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:06:04,252 INFO 2844 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:06:08,461 INFO 2847 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:06:08,474 INFO 2849 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:06:08,482 INFO 2848 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:06:08,472 INFO 2850 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:08:59,569 INFO 2847 [-/::1/-/11ms GET /wechat?signature=b57f7b71e5d87acee677610dad6084c92f6356a2&echostr=3770221846994018287&timestamp=1518210539&nonce=112572767] [access] ::1: - GET /wechat?signature=b57f7b71e5d87acee677610dad6084c92f6356a2&echostr=3770221846994018287&timestamp=1518210539&nonce=112572767 HTTP/200 19 - 5 - Mozilla/4.0
+2018-02-09 16:09:59,056 INFO 2946 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:09:59,110 INFO 2943 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:09:59,147 INFO 2944 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:09:59,144 INFO 2945 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs

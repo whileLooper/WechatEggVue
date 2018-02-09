@@ -1,0 +1,1252 @@
+2018-02-09 14:25:58,190 INFO 5137 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:25:58,250 INFO 5137 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:25:58,250 INFO 5137 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:25:58,331 INFO 5137 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:25:58,335 INFO 5137 [egg-security] use csrf middleware
+2018-02-09 14:25:58,337 INFO 5137 [egg-security] use methodnoallow middleware
+2018-02-09 14:25:58,338 INFO 5137 [egg-security] use noopen middleware
+2018-02-09 14:25:58,339 INFO 5137 [egg-security] use nosniff middleware
+2018-02-09 14:25:58,340 INFO 5137 [egg-security] use xssProtection middleware
+2018-02-09 14:25:58,340 INFO 5137 [egg-security] use xframe middleware
+2018-02-09 14:25:58,341 INFO 5137 [egg-security] use dta middleware
+2018-02-09 14:25:58,341 INFO 5137 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:25:58,446 INFO 5137 [egg-watcher:app] watcher start success
+2018-02-09 14:25:58,192 INFO 5138 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:25:58,254 INFO 5138 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:25:58,254 INFO 5138 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:25:58,331 INFO 5138 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:25:58,335 INFO 5138 [egg-security] use csrf middleware
+2018-02-09 14:25:58,337 INFO 5138 [egg-security] use methodnoallow middleware
+2018-02-09 14:25:58,338 INFO 5138 [egg-security] use noopen middleware
+2018-02-09 14:25:58,339 INFO 5138 [egg-security] use nosniff middleware
+2018-02-09 14:25:58,340 INFO 5138 [egg-security] use xssProtection middleware
+2018-02-09 14:25:58,340 INFO 5138 [egg-security] use xframe middleware
+2018-02-09 14:25:58,341 INFO 5138 [egg-security] use dta middleware
+2018-02-09 14:25:58,341 INFO 5138 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:25:58,481 INFO 5138 [egg-watcher:app] watcher start success
+2018-02-09 14:25:58,197 INFO 5140 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:25:58,295 INFO 5140 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:25:58,295 INFO 5140 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:25:58,386 INFO 5140 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:25:58,440 INFO 5140 [egg-security] use csrf middleware
+2018-02-09 14:25:58,442 INFO 5140 [egg-security] use methodnoallow middleware
+2018-02-09 14:25:58,443 INFO 5140 [egg-security] use noopen middleware
+2018-02-09 14:25:58,443 INFO 5140 [egg-security] use nosniff middleware
+2018-02-09 14:25:58,444 INFO 5140 [egg-security] use xssProtection middleware
+2018-02-09 14:25:58,445 INFO 5140 [egg-security] use xframe middleware
+2018-02-09 14:25:58,445 INFO 5140 [egg-security] use dta middleware
+2018-02-09 14:25:58,445 INFO 5140 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:25:58,554 INFO 5140 [egg-watcher:app] watcher start success
+2018-02-09 14:25:58,198 INFO 5139 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:25:58,266 INFO 5139 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:25:58,266 INFO 5139 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:25:58,358 INFO 5139 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:25:58,378 INFO 5139 [egg-security] use csrf middleware
+2018-02-09 14:25:58,379 INFO 5139 [egg-security] use methodnoallow middleware
+2018-02-09 14:25:58,380 INFO 5139 [egg-security] use noopen middleware
+2018-02-09 14:25:58,381 INFO 5139 [egg-security] use nosniff middleware
+2018-02-09 14:25:58,381 INFO 5139 [egg-security] use xssProtection middleware
+2018-02-09 14:25:58,382 INFO 5139 [egg-security] use xframe middleware
+2018-02-09 14:25:58,383 INFO 5139 [egg-security] use dta middleware
+2018-02-09 14:25:58,383 INFO 5139 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:25:58,504 INFO 5139 [egg-watcher:app] watcher start success
+2018-02-09 14:33:19,727 INFO 5497 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:33:19,799 INFO 5497 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:33:19,799 INFO 5497 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:33:19,907 INFO 5497 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:33:19,912 INFO 5497 [egg-security] use csrf middleware
+2018-02-09 14:33:19,913 INFO 5497 [egg-security] use methodnoallow middleware
+2018-02-09 14:33:19,914 INFO 5497 [egg-security] use noopen middleware
+2018-02-09 14:33:19,915 INFO 5497 [egg-security] use nosniff middleware
+2018-02-09 14:33:19,916 INFO 5497 [egg-security] use xssProtection middleware
+2018-02-09 14:33:19,917 INFO 5497 [egg-security] use xframe middleware
+2018-02-09 14:33:19,918 INFO 5497 [egg-security] use dta middleware
+2018-02-09 14:33:19,918 INFO 5497 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:33:20,015 INFO 5497 [egg-watcher:app] watcher start success
+2018-02-09 14:33:19,727 INFO 5498 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:33:19,797 INFO 5498 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:33:19,797 INFO 5498 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:33:19,907 INFO 5498 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:33:19,912 INFO 5498 [egg-security] use csrf middleware
+2018-02-09 14:33:19,913 INFO 5498 [egg-security] use methodnoallow middleware
+2018-02-09 14:33:19,914 INFO 5498 [egg-security] use noopen middleware
+2018-02-09 14:33:19,915 INFO 5498 [egg-security] use nosniff middleware
+2018-02-09 14:33:19,916 INFO 5498 [egg-security] use xssProtection middleware
+2018-02-09 14:33:19,917 INFO 5498 [egg-security] use xframe middleware
+2018-02-09 14:33:19,918 INFO 5498 [egg-security] use dta middleware
+2018-02-09 14:33:19,918 INFO 5498 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:33:20,045 INFO 5498 [egg-watcher:app] watcher start success
+2018-02-09 14:33:19,729 INFO 5499 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:33:19,805 INFO 5499 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:33:19,805 INFO 5499 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:33:19,908 INFO 5499 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:33:19,916 INFO 5499 [egg-security] use csrf middleware
+2018-02-09 14:33:19,917 INFO 5499 [egg-security] use methodnoallow middleware
+2018-02-09 14:33:19,918 INFO 5499 [egg-security] use noopen middleware
+2018-02-09 14:33:19,918 INFO 5499 [egg-security] use nosniff middleware
+2018-02-09 14:33:19,919 INFO 5499 [egg-security] use xssProtection middleware
+2018-02-09 14:33:19,919 INFO 5499 [egg-security] use xframe middleware
+2018-02-09 14:33:19,920 INFO 5499 [egg-security] use dta middleware
+2018-02-09 14:33:19,920 INFO 5499 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:33:20,064 INFO 5499 [egg-watcher:app] watcher start success
+2018-02-09 14:33:19,760 INFO 5500 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:33:19,825 INFO 5500 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:33:19,825 INFO 5500 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:33:19,907 INFO 5500 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:33:19,913 INFO 5500 [egg-security] use csrf middleware
+2018-02-09 14:33:19,915 INFO 5500 [egg-security] use methodnoallow middleware
+2018-02-09 14:33:19,915 INFO 5500 [egg-security] use noopen middleware
+2018-02-09 14:33:19,915 INFO 5500 [egg-security] use nosniff middleware
+2018-02-09 14:33:19,916 INFO 5500 [egg-security] use xssProtection middleware
+2018-02-09 14:33:19,917 INFO 5500 [egg-security] use xframe middleware
+2018-02-09 14:33:19,918 INFO 5500 [egg-security] use dta middleware
+2018-02-09 14:33:19,918 INFO 5500 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:33:20,040 INFO 5500 [egg-watcher:app] watcher start success
+2018-02-09 14:39:25,541 INFO 1424 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:39:25,729 INFO 1424 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:39:25,729 INFO 1424 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:39:25,860 INFO 1424 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:39:25,865 INFO 1424 [egg-security] use csrf middleware
+2018-02-09 14:39:25,867 INFO 1424 [egg-security] use methodnoallow middleware
+2018-02-09 14:39:25,868 INFO 1424 [egg-security] use noopen middleware
+2018-02-09 14:39:25,869 INFO 1424 [egg-security] use nosniff middleware
+2018-02-09 14:39:25,870 INFO 1424 [egg-security] use xssProtection middleware
+2018-02-09 14:39:25,871 INFO 1424 [egg-security] use xframe middleware
+2018-02-09 14:39:25,872 INFO 1424 [egg-security] use dta middleware
+2018-02-09 14:39:25,872 INFO 1424 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:39:25,995 INFO 1424 [egg-watcher:app] watcher start success
+2018-02-09 14:39:25,563 INFO 1422 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:39:25,701 INFO 1422 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:39:25,701 INFO 1422 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:39:25,860 INFO 1422 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:39:25,865 INFO 1422 [egg-security] use csrf middleware
+2018-02-09 14:39:25,867 INFO 1422 [egg-security] use methodnoallow middleware
+2018-02-09 14:39:25,868 INFO 1422 [egg-security] use noopen middleware
+2018-02-09 14:39:25,869 INFO 1422 [egg-security] use nosniff middleware
+2018-02-09 14:39:25,870 INFO 1422 [egg-security] use xssProtection middleware
+2018-02-09 14:39:25,871 INFO 1422 [egg-security] use xframe middleware
+2018-02-09 14:39:25,872 INFO 1422 [egg-security] use dta middleware
+2018-02-09 14:39:25,872 INFO 1422 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:39:26,036 INFO 1422 [egg-watcher:app] watcher start success
+2018-02-09 14:39:25,570 INFO 1423 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:39:25,720 INFO 1423 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:39:25,720 INFO 1423 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:39:25,861 INFO 1423 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:39:25,865 INFO 1423 [egg-security] use csrf middleware
+2018-02-09 14:39:25,867 INFO 1423 [egg-security] use methodnoallow middleware
+2018-02-09 14:39:25,868 INFO 1423 [egg-security] use noopen middleware
+2018-02-09 14:39:25,869 INFO 1423 [egg-security] use nosniff middleware
+2018-02-09 14:39:25,870 INFO 1423 [egg-security] use xssProtection middleware
+2018-02-09 14:39:25,871 INFO 1423 [egg-security] use xframe middleware
+2018-02-09 14:39:25,872 INFO 1423 [egg-security] use dta middleware
+2018-02-09 14:39:25,872 INFO 1423 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:39:25,996 INFO 1423 [egg-watcher:app] watcher start success
+2018-02-09 14:39:25,570 INFO 1425 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:39:25,731 INFO 1425 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:39:25,731 INFO 1425 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:39:25,866 INFO 1425 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:39:25,872 INFO 1425 [egg-security] use csrf middleware
+2018-02-09 14:39:25,873 INFO 1425 [egg-security] use methodnoallow middleware
+2018-02-09 14:39:25,873 INFO 1425 [egg-security] use noopen middleware
+2018-02-09 14:39:25,879 INFO 1425 [egg-security] use nosniff middleware
+2018-02-09 14:39:25,880 INFO 1425 [egg-security] use xssProtection middleware
+2018-02-09 14:39:25,881 INFO 1425 [egg-security] use xframe middleware
+2018-02-09 14:39:25,882 INFO 1425 [egg-security] use dta middleware
+2018-02-09 14:39:25,882 INFO 1425 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:39:25,991 INFO 1425 [egg-watcher:app] watcher start success
+2018-02-09 14:43:31,363 INFO 1812 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:43:31,438 INFO 1812 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:43:31,438 INFO 1812 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:43:31,534 INFO 1812 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:43:31,538 INFO 1812 [egg-security] use csrf middleware
+2018-02-09 14:43:31,539 INFO 1812 [egg-security] use methodnoallow middleware
+2018-02-09 14:43:31,540 INFO 1812 [egg-security] use noopen middleware
+2018-02-09 14:43:31,541 INFO 1812 [egg-security] use nosniff middleware
+2018-02-09 14:43:31,543 INFO 1812 [egg-security] use xssProtection middleware
+2018-02-09 14:43:31,543 INFO 1812 [egg-security] use xframe middleware
+2018-02-09 14:43:31,544 INFO 1812 [egg-security] use dta middleware
+2018-02-09 14:43:31,544 INFO 1812 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:43:31,992 INFO 1812 [egg-watcher:app] watcher start success
+2018-02-09 14:43:31,363 INFO 1810 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:43:31,440 INFO 1810 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:43:31,440 INFO 1810 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:43:31,534 INFO 1810 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:43:31,538 INFO 1810 [egg-security] use csrf middleware
+2018-02-09 14:43:31,539 INFO 1810 [egg-security] use methodnoallow middleware
+2018-02-09 14:43:31,540 INFO 1810 [egg-security] use noopen middleware
+2018-02-09 14:43:31,541 INFO 1810 [egg-security] use nosniff middleware
+2018-02-09 14:43:31,542 INFO 1810 [egg-security] use xssProtection middleware
+2018-02-09 14:43:31,544 INFO 1810 [egg-security] use xframe middleware
+2018-02-09 14:43:31,544 INFO 1810 [egg-security] use dta middleware
+2018-02-09 14:43:31,544 INFO 1810 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:43:31,996 INFO 1810 [egg-watcher:app] watcher start success
+2018-02-09 14:43:31,363 INFO 1811 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:43:31,429 INFO 1811 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:43:31,429 INFO 1811 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:43:31,534 INFO 1811 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:43:31,538 INFO 1811 [egg-security] use csrf middleware
+2018-02-09 14:43:31,539 INFO 1811 [egg-security] use methodnoallow middleware
+2018-02-09 14:43:31,540 INFO 1811 [egg-security] use noopen middleware
+2018-02-09 14:43:31,542 INFO 1811 [egg-security] use nosniff middleware
+2018-02-09 14:43:31,542 INFO 1811 [egg-security] use xssProtection middleware
+2018-02-09 14:43:31,544 INFO 1811 [egg-security] use xframe middleware
+2018-02-09 14:43:31,545 INFO 1811 [egg-security] use dta middleware
+2018-02-09 14:43:31,545 INFO 1811 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:43:32,016 INFO 1811 [egg-watcher:app] watcher start success
+2018-02-09 14:43:31,391 INFO 1813 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:43:31,466 INFO 1813 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:43:31,466 INFO 1813 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:43:31,581 INFO 1813 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:43:31,586 INFO 1813 [egg-security] use csrf middleware
+2018-02-09 14:43:31,587 INFO 1813 [egg-security] use methodnoallow middleware
+2018-02-09 14:43:31,587 INFO 1813 [egg-security] use noopen middleware
+2018-02-09 14:43:31,589 INFO 1813 [egg-security] use nosniff middleware
+2018-02-09 14:43:31,589 INFO 1813 [egg-security] use xssProtection middleware
+2018-02-09 14:43:31,591 INFO 1813 [egg-security] use xframe middleware
+2018-02-09 14:43:31,592 INFO 1813 [egg-security] use dta middleware
+2018-02-09 14:43:31,593 INFO 1813 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:43:31,995 INFO 1813 [egg-watcher:app] watcher start success
+2018-02-09 14:43:45,461 INFO 1832 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:43:45,527 INFO 1832 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:43:45,527 INFO 1832 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:43:45,605 INFO 1832 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:43:45,610 INFO 1832 [egg-security] use csrf middleware
+2018-02-09 14:43:45,611 INFO 1832 [egg-security] use methodnoallow middleware
+2018-02-09 14:43:45,612 INFO 1832 [egg-security] use noopen middleware
+2018-02-09 14:43:45,612 INFO 1832 [egg-security] use nosniff middleware
+2018-02-09 14:43:45,613 INFO 1832 [egg-security] use xssProtection middleware
+2018-02-09 14:43:45,613 INFO 1832 [egg-security] use xframe middleware
+2018-02-09 14:43:45,614 INFO 1832 [egg-security] use dta middleware
+2018-02-09 14:43:45,614 INFO 1832 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:43:46,021 INFO 1832 [egg-watcher:app] watcher start success
+2018-02-09 14:43:45,475 INFO 1833 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:43:45,555 INFO 1833 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:43:45,555 INFO 1833 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:43:45,633 INFO 1833 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:43:45,647 INFO 1833 [egg-security] use csrf middleware
+2018-02-09 14:43:45,648 INFO 1833 [egg-security] use methodnoallow middleware
+2018-02-09 14:43:45,648 INFO 1833 [egg-security] use noopen middleware
+2018-02-09 14:43:45,649 INFO 1833 [egg-security] use nosniff middleware
+2018-02-09 14:43:45,649 INFO 1833 [egg-security] use xssProtection middleware
+2018-02-09 14:43:45,650 INFO 1833 [egg-security] use xframe middleware
+2018-02-09 14:43:45,650 INFO 1833 [egg-security] use dta middleware
+2018-02-09 14:43:45,650 INFO 1833 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:43:46,019 INFO 1833 [egg-watcher:app] watcher start success
+2018-02-09 14:43:45,486 INFO 1834 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:43:45,558 INFO 1834 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:43:45,558 INFO 1834 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:43:45,643 INFO 1834 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:43:45,649 INFO 1834 [egg-security] use csrf middleware
+2018-02-09 14:43:45,650 INFO 1834 [egg-security] use methodnoallow middleware
+2018-02-09 14:43:45,651 INFO 1834 [egg-security] use noopen middleware
+2018-02-09 14:43:45,651 INFO 1834 [egg-security] use nosniff middleware
+2018-02-09 14:43:45,652 INFO 1834 [egg-security] use xssProtection middleware
+2018-02-09 14:43:45,652 INFO 1834 [egg-security] use xframe middleware
+2018-02-09 14:43:45,653 INFO 1834 [egg-security] use dta middleware
+2018-02-09 14:43:45,653 INFO 1834 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:43:46,064 INFO 1834 [egg-watcher:app] watcher start success
+2018-02-09 14:43:45,498 INFO 1835 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:43:45,564 INFO 1835 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:43:45,564 INFO 1835 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:43:45,660 INFO 1835 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:43:45,666 INFO 1835 [egg-security] use csrf middleware
+2018-02-09 14:43:45,668 INFO 1835 [egg-security] use methodnoallow middleware
+2018-02-09 14:43:45,668 INFO 1835 [egg-security] use noopen middleware
+2018-02-09 14:43:45,669 INFO 1835 [egg-security] use nosniff middleware
+2018-02-09 14:43:45,673 INFO 1835 [egg-security] use xssProtection middleware
+2018-02-09 14:43:45,674 INFO 1835 [egg-security] use xframe middleware
+2018-02-09 14:43:45,674 INFO 1835 [egg-security] use dta middleware
+2018-02-09 14:43:45,674 INFO 1835 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:43:46,074 INFO 1835 [egg-watcher:app] watcher start success
+2018-02-09 14:48:18,521 INFO 1911 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:48:18,592 INFO 1911 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:48:18,592 INFO 1911 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:48:18,703 INFO 1911 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:48:18,707 INFO 1911 [egg-security] use csrf middleware
+2018-02-09 14:48:18,708 INFO 1911 [egg-security] use methodnoallow middleware
+2018-02-09 14:48:18,709 INFO 1911 [egg-security] use noopen middleware
+2018-02-09 14:48:18,710 INFO 1911 [egg-security] use nosniff middleware
+2018-02-09 14:48:18,711 INFO 1911 [egg-security] use xssProtection middleware
+2018-02-09 14:48:18,713 INFO 1911 [egg-security] use xframe middleware
+2018-02-09 14:48:18,714 INFO 1911 [egg-security] use dta middleware
+2018-02-09 14:48:18,714 INFO 1911 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:48:19,190 INFO 1911 [egg-watcher:app] watcher start success
+2018-02-09 14:48:18,521 INFO 1913 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:48:18,597 INFO 1913 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:48:18,597 INFO 1913 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:48:18,703 INFO 1913 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:48:18,707 INFO 1913 [egg-security] use csrf middleware
+2018-02-09 14:48:18,708 INFO 1913 [egg-security] use methodnoallow middleware
+2018-02-09 14:48:18,709 INFO 1913 [egg-security] use noopen middleware
+2018-02-09 14:48:18,710 INFO 1913 [egg-security] use nosniff middleware
+2018-02-09 14:48:18,712 INFO 1913 [egg-security] use xssProtection middleware
+2018-02-09 14:48:18,713 INFO 1913 [egg-security] use xframe middleware
+2018-02-09 14:48:18,714 INFO 1913 [egg-security] use dta middleware
+2018-02-09 14:48:18,714 INFO 1913 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:48:19,242 INFO 1913 [egg-watcher:app] watcher start success
+2018-02-09 14:48:18,521 INFO 1912 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:48:18,592 INFO 1912 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:48:18,592 INFO 1912 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:48:18,704 INFO 1912 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:48:18,708 INFO 1912 [egg-security] use csrf middleware
+2018-02-09 14:48:18,709 INFO 1912 [egg-security] use methodnoallow middleware
+2018-02-09 14:48:18,709 INFO 1912 [egg-security] use noopen middleware
+2018-02-09 14:48:18,710 INFO 1912 [egg-security] use nosniff middleware
+2018-02-09 14:48:18,712 INFO 1912 [egg-security] use xssProtection middleware
+2018-02-09 14:48:18,713 INFO 1912 [egg-security] use xframe middleware
+2018-02-09 14:48:18,714 INFO 1912 [egg-security] use dta middleware
+2018-02-09 14:48:18,714 INFO 1912 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:48:19,191 INFO 1912 [egg-watcher:app] watcher start success
+2018-02-09 14:48:18,521 INFO 1914 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:48:18,593 INFO 1914 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:48:18,593 INFO 1914 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:48:18,703 INFO 1914 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:48:18,707 INFO 1914 [egg-security] use csrf middleware
+2018-02-09 14:48:18,708 INFO 1914 [egg-security] use methodnoallow middleware
+2018-02-09 14:48:18,709 INFO 1914 [egg-security] use noopen middleware
+2018-02-09 14:48:18,710 INFO 1914 [egg-security] use nosniff middleware
+2018-02-09 14:48:18,711 INFO 1914 [egg-security] use xssProtection middleware
+2018-02-09 14:48:18,713 INFO 1914 [egg-security] use xframe middleware
+2018-02-09 14:48:18,714 INFO 1914 [egg-security] use dta middleware
+2018-02-09 14:48:18,714 INFO 1914 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:48:19,187 INFO 1914 [egg-watcher:app] watcher start success
+2018-02-09 14:51:26,783 INFO 1964 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:51:26,861 INFO 1964 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:51:26,862 INFO 1964 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:51:26,936 INFO 1964 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:51:26,939 INFO 1964 [egg-security] use csrf middleware
+2018-02-09 14:51:26,941 INFO 1964 [egg-security] use methodnoallow middleware
+2018-02-09 14:51:26,942 INFO 1964 [egg-security] use noopen middleware
+2018-02-09 14:51:26,942 INFO 1964 [egg-security] use nosniff middleware
+2018-02-09 14:51:26,943 INFO 1964 [egg-security] use xssProtection middleware
+2018-02-09 14:51:26,944 INFO 1964 [egg-security] use xframe middleware
+2018-02-09 14:51:26,945 INFO 1964 [egg-security] use dta middleware
+2018-02-09 14:51:26,945 INFO 1964 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:51:27,433 INFO 1964 [egg-watcher:app] watcher start success
+2018-02-09 14:51:26,783 INFO 1961 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:51:26,846 INFO 1961 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:51:26,846 INFO 1961 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:51:26,936 INFO 1961 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:51:26,939 INFO 1961 [egg-security] use csrf middleware
+2018-02-09 14:51:26,941 INFO 1961 [egg-security] use methodnoallow middleware
+2018-02-09 14:51:26,942 INFO 1961 [egg-security] use noopen middleware
+2018-02-09 14:51:26,942 INFO 1961 [egg-security] use nosniff middleware
+2018-02-09 14:51:26,943 INFO 1961 [egg-security] use xssProtection middleware
+2018-02-09 14:51:26,944 INFO 1961 [egg-security] use xframe middleware
+2018-02-09 14:51:26,945 INFO 1961 [egg-security] use dta middleware
+2018-02-09 14:51:26,945 INFO 1961 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:51:27,435 INFO 1961 [egg-watcher:app] watcher start success
+2018-02-09 14:51:26,783 INFO 1962 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:51:26,850 INFO 1962 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:51:26,850 INFO 1962 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:51:26,936 INFO 1962 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:51:26,939 INFO 1962 [egg-security] use csrf middleware
+2018-02-09 14:51:26,941 INFO 1962 [egg-security] use methodnoallow middleware
+2018-02-09 14:51:26,942 INFO 1962 [egg-security] use noopen middleware
+2018-02-09 14:51:26,942 INFO 1962 [egg-security] use nosniff middleware
+2018-02-09 14:51:26,943 INFO 1962 [egg-security] use xssProtection middleware
+2018-02-09 14:51:26,944 INFO 1962 [egg-security] use xframe middleware
+2018-02-09 14:51:26,945 INFO 1962 [egg-security] use dta middleware
+2018-02-09 14:51:26,945 INFO 1962 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:51:27,443 INFO 1962 [egg-watcher:app] watcher start success
+2018-02-09 14:51:26,791 INFO 1963 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:51:26,855 INFO 1963 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:51:26,855 INFO 1963 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:51:26,936 INFO 1963 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:51:26,939 INFO 1963 [egg-security] use csrf middleware
+2018-02-09 14:51:26,941 INFO 1963 [egg-security] use methodnoallow middleware
+2018-02-09 14:51:26,942 INFO 1963 [egg-security] use noopen middleware
+2018-02-09 14:51:26,942 INFO 1963 [egg-security] use nosniff middleware
+2018-02-09 14:51:26,943 INFO 1963 [egg-security] use xssProtection middleware
+2018-02-09 14:51:26,944 INFO 1963 [egg-security] use xframe middleware
+2018-02-09 14:51:26,945 INFO 1963 [egg-security] use dta middleware
+2018-02-09 14:51:26,945 INFO 1963 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:51:27,433 INFO 1963 [egg-watcher:app] watcher start success
+2018-02-09 14:52:21,122 INFO 1985 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:52:21,194 INFO 1985 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:52:21,194 INFO 1985 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:52:21,278 INFO 1985 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:52:21,282 INFO 1985 [egg-security] use csrf middleware
+2018-02-09 14:52:21,283 INFO 1985 [egg-security] use methodnoallow middleware
+2018-02-09 14:52:21,284 INFO 1985 [egg-security] use noopen middleware
+2018-02-09 14:52:21,285 INFO 1985 [egg-security] use nosniff middleware
+2018-02-09 14:52:21,286 INFO 1985 [egg-security] use xssProtection middleware
+2018-02-09 14:52:21,287 INFO 1985 [egg-security] use xframe middleware
+2018-02-09 14:52:21,287 INFO 1985 [egg-security] use dta middleware
+2018-02-09 14:52:21,287 INFO 1985 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:52:21,687 INFO 1985 [egg-watcher:app] watcher start success
+2018-02-09 14:52:21,122 INFO 1983 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:52:21,185 INFO 1983 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:52:21,185 INFO 1983 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:52:21,279 INFO 1983 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:52:21,283 INFO 1983 [egg-security] use csrf middleware
+2018-02-09 14:52:21,284 INFO 1983 [egg-security] use methodnoallow middleware
+2018-02-09 14:52:21,285 INFO 1983 [egg-security] use noopen middleware
+2018-02-09 14:52:21,285 INFO 1983 [egg-security] use nosniff middleware
+2018-02-09 14:52:21,286 INFO 1983 [egg-security] use xssProtection middleware
+2018-02-09 14:52:21,287 INFO 1983 [egg-security] use xframe middleware
+2018-02-09 14:52:21,288 INFO 1983 [egg-security] use dta middleware
+2018-02-09 14:52:21,288 INFO 1983 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:52:21,687 INFO 1983 [egg-watcher:app] watcher start success
+2018-02-09 14:52:21,123 INFO 1984 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:52:21,197 INFO 1984 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:52:21,197 INFO 1984 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:52:21,284 INFO 1984 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:52:21,288 INFO 1984 [egg-security] use csrf middleware
+2018-02-09 14:52:21,289 INFO 1984 [egg-security] use methodnoallow middleware
+2018-02-09 14:52:21,290 INFO 1984 [egg-security] use noopen middleware
+2018-02-09 14:52:21,290 INFO 1984 [egg-security] use nosniff middleware
+2018-02-09 14:52:21,291 INFO 1984 [egg-security] use xssProtection middleware
+2018-02-09 14:52:21,294 INFO 1984 [egg-security] use xframe middleware
+2018-02-09 14:52:21,295 INFO 1984 [egg-security] use dta middleware
+2018-02-09 14:52:21,295 INFO 1984 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:52:21,685 INFO 1984 [egg-watcher:app] watcher start success
+2018-02-09 14:52:21,122 INFO 1986 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:52:21,187 INFO 1986 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:52:21,187 INFO 1986 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:52:21,281 INFO 1986 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:52:21,285 INFO 1986 [egg-security] use csrf middleware
+2018-02-09 14:52:21,286 INFO 1986 [egg-security] use methodnoallow middleware
+2018-02-09 14:52:21,287 INFO 1986 [egg-security] use noopen middleware
+2018-02-09 14:52:21,288 INFO 1986 [egg-security] use nosniff middleware
+2018-02-09 14:52:21,288 INFO 1986 [egg-security] use xssProtection middleware
+2018-02-09 14:52:21,289 INFO 1986 [egg-security] use xframe middleware
+2018-02-09 14:52:21,290 INFO 1986 [egg-security] use dta middleware
+2018-02-09 14:52:21,290 INFO 1986 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:52:21,693 INFO 1986 [egg-watcher:app] watcher start success
+2018-02-09 14:52:52,135 INFO 2071 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:52:52,200 INFO 2071 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:52:52,200 INFO 2071 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:52:52,263 INFO 2071 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:52:52,268 INFO 2071 [egg-security] use csrf middleware
+2018-02-09 14:52:52,269 INFO 2071 [egg-security] use methodnoallow middleware
+2018-02-09 14:52:52,270 INFO 2071 [egg-security] use noopen middleware
+2018-02-09 14:52:52,270 INFO 2071 [egg-security] use nosniff middleware
+2018-02-09 14:52:52,271 INFO 2071 [egg-security] use xssProtection middleware
+2018-02-09 14:52:52,272 INFO 2071 [egg-security] use xframe middleware
+2018-02-09 14:52:52,273 INFO 2071 [egg-security] use dta middleware
+2018-02-09 14:52:52,273 INFO 2071 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:52:52,699 INFO 2071 [egg-watcher:app] watcher start success
+2018-02-09 14:52:52,132 INFO 2070 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:52:52,183 INFO 2070 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:52:52,183 INFO 2070 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:52:52,267 INFO 2070 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:52:52,271 INFO 2070 [egg-security] use csrf middleware
+2018-02-09 14:52:52,272 INFO 2070 [egg-security] use methodnoallow middleware
+2018-02-09 14:52:52,272 INFO 2070 [egg-security] use noopen middleware
+2018-02-09 14:52:52,273 INFO 2070 [egg-security] use nosniff middleware
+2018-02-09 14:52:52,273 INFO 2070 [egg-security] use xssProtection middleware
+2018-02-09 14:52:52,274 INFO 2070 [egg-security] use xframe middleware
+2018-02-09 14:52:52,274 INFO 2070 [egg-security] use dta middleware
+2018-02-09 14:52:52,274 INFO 2070 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:52:52,701 INFO 2070 [egg-watcher:app] watcher start success
+2018-02-09 14:52:52,140 INFO 2069 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:52:52,188 INFO 2069 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:52:52,188 INFO 2069 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:52:52,262 INFO 2069 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:52:52,266 INFO 2069 [egg-security] use csrf middleware
+2018-02-09 14:52:52,268 INFO 2069 [egg-security] use methodnoallow middleware
+2018-02-09 14:52:52,270 INFO 2069 [egg-security] use noopen middleware
+2018-02-09 14:52:52,270 INFO 2069 [egg-security] use nosniff middleware
+2018-02-09 14:52:52,271 INFO 2069 [egg-security] use xssProtection middleware
+2018-02-09 14:52:52,272 INFO 2069 [egg-security] use xframe middleware
+2018-02-09 14:52:52,273 INFO 2069 [egg-security] use dta middleware
+2018-02-09 14:52:52,273 INFO 2069 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:52:52,718 INFO 2069 [egg-watcher:app] watcher start success
+2018-02-09 14:52:52,142 INFO 2068 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:52:52,187 INFO 2068 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:52:52,187 INFO 2068 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:52:52,263 INFO 2068 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:52:52,267 INFO 2068 [egg-security] use csrf middleware
+2018-02-09 14:52:52,269 INFO 2068 [egg-security] use methodnoallow middleware
+2018-02-09 14:52:52,269 INFO 2068 [egg-security] use noopen middleware
+2018-02-09 14:52:52,270 INFO 2068 [egg-security] use nosniff middleware
+2018-02-09 14:52:52,271 INFO 2068 [egg-security] use xssProtection middleware
+2018-02-09 14:52:52,272 INFO 2068 [egg-security] use xframe middleware
+2018-02-09 14:52:52,272 INFO 2068 [egg-security] use dta middleware
+2018-02-09 14:52:52,273 INFO 2068 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:52:52,723 INFO 2068 [egg-watcher:app] watcher start success
+2018-02-09 14:53:29,362 INFO 2086 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:53:29,432 INFO 2086 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:53:29,432 INFO 2086 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:53:29,592 INFO 2086 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:53:29,597 INFO 2086 [egg-security] use csrf middleware
+2018-02-09 14:53:29,599 INFO 2086 [egg-security] use methodnoallow middleware
+2018-02-09 14:53:29,600 INFO 2086 [egg-security] use noopen middleware
+2018-02-09 14:53:29,601 INFO 2086 [egg-security] use nosniff middleware
+2018-02-09 14:53:29,602 INFO 2086 [egg-security] use xssProtection middleware
+2018-02-09 14:53:29,603 INFO 2086 [egg-security] use xframe middleware
+2018-02-09 14:53:29,604 INFO 2086 [egg-security] use dta middleware
+2018-02-09 14:53:29,604 INFO 2086 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:53:29,990 INFO 2086 [egg-watcher:app] watcher start success
+2018-02-09 14:53:29,362 INFO 2088 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:53:29,446 INFO 2088 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:53:29,446 INFO 2088 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:53:29,594 INFO 2088 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:53:29,598 INFO 2088 [egg-security] use csrf middleware
+2018-02-09 14:53:29,600 INFO 2088 [egg-security] use methodnoallow middleware
+2018-02-09 14:53:29,600 INFO 2088 [egg-security] use noopen middleware
+2018-02-09 14:53:29,601 INFO 2088 [egg-security] use nosniff middleware
+2018-02-09 14:53:29,603 INFO 2088 [egg-security] use xssProtection middleware
+2018-02-09 14:53:29,603 INFO 2088 [egg-security] use xframe middleware
+2018-02-09 14:53:29,604 INFO 2088 [egg-security] use dta middleware
+2018-02-09 14:53:29,604 INFO 2088 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:53:29,989 INFO 2088 [egg-watcher:app] watcher start success
+2018-02-09 14:53:29,362 INFO 2089 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:53:29,444 INFO 2089 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:53:29,444 INFO 2089 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:53:29,603 INFO 2089 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:53:29,615 INFO 2089 [egg-security] use csrf middleware
+2018-02-09 14:53:29,620 INFO 2089 [egg-security] use methodnoallow middleware
+2018-02-09 14:53:29,622 INFO 2089 [egg-security] use noopen middleware
+2018-02-09 14:53:29,625 INFO 2089 [egg-security] use nosniff middleware
+2018-02-09 14:53:29,626 INFO 2089 [egg-security] use xssProtection middleware
+2018-02-09 14:53:29,627 INFO 2089 [egg-security] use xframe middleware
+2018-02-09 14:53:29,628 INFO 2089 [egg-security] use dta middleware
+2018-02-09 14:53:29,628 INFO 2089 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:53:29,994 INFO 2089 [egg-watcher:app] watcher start success
+2018-02-09 14:53:29,362 INFO 2087 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:53:29,445 INFO 2087 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:53:29,445 INFO 2087 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:53:29,599 INFO 2087 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:53:29,611 INFO 2087 [egg-security] use csrf middleware
+2018-02-09 14:53:29,612 INFO 2087 [egg-security] use methodnoallow middleware
+2018-02-09 14:53:29,616 INFO 2087 [egg-security] use noopen middleware
+2018-02-09 14:53:29,617 INFO 2087 [egg-security] use nosniff middleware
+2018-02-09 14:53:29,618 INFO 2087 [egg-security] use xssProtection middleware
+2018-02-09 14:53:29,619 INFO 2087 [egg-security] use xframe middleware
+2018-02-09 14:53:29,620 INFO 2087 [egg-security] use dta middleware
+2018-02-09 14:53:29,620 INFO 2087 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:53:29,991 INFO 2087 [egg-watcher:app] watcher start success
+2018-02-09 14:56:47,286 INFO 2175 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:56:47,360 INFO 2175 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:56:47,360 INFO 2175 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:56:47,469 INFO 2175 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:56:47,473 INFO 2175 [egg-security] use csrf middleware
+2018-02-09 14:56:47,476 INFO 2175 [egg-security] use methodnoallow middleware
+2018-02-09 14:56:47,477 INFO 2175 [egg-security] use noopen middleware
+2018-02-09 14:56:47,479 INFO 2175 [egg-security] use nosniff middleware
+2018-02-09 14:56:47,480 INFO 2175 [egg-security] use xssProtection middleware
+2018-02-09 14:56:47,481 INFO 2175 [egg-security] use xframe middleware
+2018-02-09 14:56:47,481 INFO 2175 [egg-security] use dta middleware
+2018-02-09 14:56:47,481 INFO 2175 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:56:47,908 INFO 2175 [egg-watcher:app] watcher start success
+2018-02-09 14:56:47,290 INFO 2174 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:56:47,370 INFO 2174 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:56:47,370 INFO 2174 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:56:47,470 INFO 2174 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:56:47,477 INFO 2174 [egg-security] use csrf middleware
+2018-02-09 14:56:47,478 INFO 2174 [egg-security] use methodnoallow middleware
+2018-02-09 14:56:47,479 INFO 2174 [egg-security] use noopen middleware
+2018-02-09 14:56:47,479 INFO 2174 [egg-security] use nosniff middleware
+2018-02-09 14:56:47,480 INFO 2174 [egg-security] use xssProtection middleware
+2018-02-09 14:56:47,481 INFO 2174 [egg-security] use xframe middleware
+2018-02-09 14:56:47,481 INFO 2174 [egg-security] use dta middleware
+2018-02-09 14:56:47,481 INFO 2174 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:56:47,907 INFO 2174 [egg-watcher:app] watcher start success
+2018-02-09 14:56:47,289 INFO 2173 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:56:47,369 INFO 2173 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:56:47,369 INFO 2173 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:56:47,475 INFO 2173 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:56:47,480 INFO 2173 [egg-security] use csrf middleware
+2018-02-09 14:56:47,482 INFO 2173 [egg-security] use methodnoallow middleware
+2018-02-09 14:56:47,482 INFO 2173 [egg-security] use noopen middleware
+2018-02-09 14:56:47,482 INFO 2173 [egg-security] use nosniff middleware
+2018-02-09 14:56:47,483 INFO 2173 [egg-security] use xssProtection middleware
+2018-02-09 14:56:47,483 INFO 2173 [egg-security] use xframe middleware
+2018-02-09 14:56:47,484 INFO 2173 [egg-security] use dta middleware
+2018-02-09 14:56:47,484 INFO 2173 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:56:47,930 INFO 2173 [egg-watcher:app] watcher start success
+2018-02-09 14:56:47,329 INFO 2176 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:56:47,401 INFO 2176 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:56:47,401 INFO 2176 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:56:47,485 INFO 2176 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:56:47,512 INFO 2176 [egg-security] use csrf middleware
+2018-02-09 14:56:47,513 INFO 2176 [egg-security] use methodnoallow middleware
+2018-02-09 14:56:47,514 INFO 2176 [egg-security] use noopen middleware
+2018-02-09 14:56:47,514 INFO 2176 [egg-security] use nosniff middleware
+2018-02-09 14:56:47,515 INFO 2176 [egg-security] use xssProtection middleware
+2018-02-09 14:56:47,515 INFO 2176 [egg-security] use xframe middleware
+2018-02-09 14:56:47,515 INFO 2176 [egg-security] use dta middleware
+2018-02-09 14:56:47,515 INFO 2176 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:56:47,905 INFO 2176 [egg-watcher:app] watcher start success
+2018-02-09 14:58:49,955 INFO 2214 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:58:50,031 INFO 2214 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:58:50,031 INFO 2214 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:58:50,124 INFO 2214 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:58:50,128 INFO 2214 [egg-security] use csrf middleware
+2018-02-09 14:58:50,129 INFO 2214 [egg-security] use methodnoallow middleware
+2018-02-09 14:58:50,130 INFO 2214 [egg-security] use noopen middleware
+2018-02-09 14:58:50,132 INFO 2214 [egg-security] use nosniff middleware
+2018-02-09 14:58:50,133 INFO 2214 [egg-security] use xssProtection middleware
+2018-02-09 14:58:50,133 INFO 2214 [egg-security] use xframe middleware
+2018-02-09 14:58:50,134 INFO 2214 [egg-security] use dta middleware
+2018-02-09 14:58:50,134 INFO 2214 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:58:50,538 INFO 2214 [egg-watcher:app] watcher start success
+2018-02-09 14:58:49,956 INFO 2217 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:58:50,026 INFO 2217 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:58:50,026 INFO 2217 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:58:50,124 INFO 2217 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:58:50,127 INFO 2217 [egg-security] use csrf middleware
+2018-02-09 14:58:50,130 INFO 2217 [egg-security] use methodnoallow middleware
+2018-02-09 14:58:50,131 INFO 2217 [egg-security] use noopen middleware
+2018-02-09 14:58:50,131 INFO 2217 [egg-security] use nosniff middleware
+2018-02-09 14:58:50,132 INFO 2217 [egg-security] use xssProtection middleware
+2018-02-09 14:58:50,134 INFO 2217 [egg-security] use xframe middleware
+2018-02-09 14:58:50,134 INFO 2217 [egg-security] use dta middleware
+2018-02-09 14:58:50,135 INFO 2217 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:58:50,538 INFO 2217 [egg-watcher:app] watcher start success
+2018-02-09 14:58:49,956 INFO 2215 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:58:50,031 INFO 2215 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:58:50,031 INFO 2215 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:58:50,128 INFO 2215 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:58:50,134 INFO 2215 [egg-security] use csrf middleware
+2018-02-09 14:58:50,135 INFO 2215 [egg-security] use methodnoallow middleware
+2018-02-09 14:58:50,136 INFO 2215 [egg-security] use noopen middleware
+2018-02-09 14:58:50,136 INFO 2215 [egg-security] use nosniff middleware
+2018-02-09 14:58:50,137 INFO 2215 [egg-security] use xssProtection middleware
+2018-02-09 14:58:50,138 INFO 2215 [egg-security] use xframe middleware
+2018-02-09 14:58:50,138 INFO 2215 [egg-security] use dta middleware
+2018-02-09 14:58:50,138 INFO 2215 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:58:50,542 INFO 2215 [egg-watcher:app] watcher start success
+2018-02-09 14:58:49,960 INFO 2216 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 14:58:50,024 INFO 2216 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 14:58:50,024 INFO 2216 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 14:58:50,127 INFO 2216 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 14:58:50,131 INFO 2216 [egg-security] use csrf middleware
+2018-02-09 14:58:50,132 INFO 2216 [egg-security] use methodnoallow middleware
+2018-02-09 14:58:50,132 INFO 2216 [egg-security] use noopen middleware
+2018-02-09 14:58:50,133 INFO 2216 [egg-security] use nosniff middleware
+2018-02-09 14:58:50,133 INFO 2216 [egg-security] use xssProtection middleware
+2018-02-09 14:58:50,133 INFO 2216 [egg-security] use xframe middleware
+2018-02-09 14:58:50,134 INFO 2216 [egg-security] use dta middleware
+2018-02-09 14:58:50,134 INFO 2216 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 14:58:50,560 INFO 2216 [egg-watcher:app] watcher start success
+2018-02-09 15:52:49,213 WARN 2215 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-02-09 15:52:49,212 WARN 2214 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-02-09 15:52:49,212 WARN 2217 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-02-09 15:52:49,215 WARN 2216 [ClusterClient:Watcher] follower closed, and try to init it again
+2018-02-09 15:53:46,278 INFO 2459 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:53:46,346 INFO 2459 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:53:46,347 INFO 2459 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:53:46,452 INFO 2459 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:53:46,457 INFO 2459 [egg-security] use csrf middleware
+2018-02-09 15:53:46,458 INFO 2459 [egg-security] use methodnoallow middleware
+2018-02-09 15:53:46,459 INFO 2459 [egg-security] use noopen middleware
+2018-02-09 15:53:46,459 INFO 2459 [egg-security] use nosniff middleware
+2018-02-09 15:53:46,460 INFO 2459 [egg-security] use xssProtection middleware
+2018-02-09 15:53:46,460 INFO 2459 [egg-security] use xframe middleware
+2018-02-09 15:53:46,462 INFO 2459 [egg-security] use dta middleware
+2018-02-09 15:53:46,462 INFO 2459 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:53:46,896 INFO 2459 [egg-watcher:app] watcher start success
+2018-02-09 15:53:46,280 INFO 2460 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:53:46,363 INFO 2460 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:53:46,363 INFO 2460 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:53:46,451 INFO 2460 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:53:46,455 INFO 2460 [egg-security] use csrf middleware
+2018-02-09 15:53:46,456 INFO 2460 [egg-security] use methodnoallow middleware
+2018-02-09 15:53:46,457 INFO 2460 [egg-security] use noopen middleware
+2018-02-09 15:53:46,457 INFO 2460 [egg-security] use nosniff middleware
+2018-02-09 15:53:46,458 INFO 2460 [egg-security] use xssProtection middleware
+2018-02-09 15:53:46,459 INFO 2460 [egg-security] use xframe middleware
+2018-02-09 15:53:46,460 INFO 2460 [egg-security] use dta middleware
+2018-02-09 15:53:46,460 INFO 2460 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:53:46,898 INFO 2460 [egg-watcher:app] watcher start success
+2018-02-09 15:53:46,278 INFO 2461 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:53:46,350 INFO 2461 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:53:46,350 INFO 2461 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:53:46,451 INFO 2461 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:53:46,455 INFO 2461 [egg-security] use csrf middleware
+2018-02-09 15:53:46,456 INFO 2461 [egg-security] use methodnoallow middleware
+2018-02-09 15:53:46,457 INFO 2461 [egg-security] use noopen middleware
+2018-02-09 15:53:46,457 INFO 2461 [egg-security] use nosniff middleware
+2018-02-09 15:53:46,458 INFO 2461 [egg-security] use xssProtection middleware
+2018-02-09 15:53:46,459 INFO 2461 [egg-security] use xframe middleware
+2018-02-09 15:53:46,459 INFO 2461 [egg-security] use dta middleware
+2018-02-09 15:53:46,459 INFO 2461 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:53:46,921 INFO 2461 [egg-watcher:app] watcher start success
+2018-02-09 15:53:46,460 INFO 2462 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:53:46,593 INFO 2462 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:53:46,593 INFO 2462 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:53:46,668 INFO 2462 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:53:46,672 INFO 2462 [egg-security] use csrf middleware
+2018-02-09 15:53:46,674 INFO 2462 [egg-security] use methodnoallow middleware
+2018-02-09 15:53:46,674 INFO 2462 [egg-security] use noopen middleware
+2018-02-09 15:53:46,675 INFO 2462 [egg-security] use nosniff middleware
+2018-02-09 15:53:46,675 INFO 2462 [egg-security] use xssProtection middleware
+2018-02-09 15:53:46,676 INFO 2462 [egg-security] use xframe middleware
+2018-02-09 15:53:46,677 INFO 2462 [egg-security] use dta middleware
+2018-02-09 15:53:46,677 INFO 2462 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:53:47,070 INFO 2462 [egg-watcher:app] watcher start success
+2018-02-09 15:53:57,821 INFO 2501 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:53:57,901 INFO 2501 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:53:57,901 INFO 2501 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:53:57,993 INFO 2501 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:53:57,997 INFO 2501 [egg-security] use csrf middleware
+2018-02-09 15:53:57,999 INFO 2501 [egg-security] use methodnoallow middleware
+2018-02-09 15:53:58,000 INFO 2501 [egg-security] use noopen middleware
+2018-02-09 15:53:58,001 INFO 2501 [egg-security] use nosniff middleware
+2018-02-09 15:53:58,001 INFO 2501 [egg-security] use xssProtection middleware
+2018-02-09 15:53:58,002 INFO 2501 [egg-security] use xframe middleware
+2018-02-09 15:53:58,003 INFO 2501 [egg-security] use dta middleware
+2018-02-09 15:53:58,003 INFO 2501 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:53:58,453 INFO 2501 [egg-watcher:app] watcher start success
+2018-02-09 15:53:57,824 INFO 2502 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:53:57,905 INFO 2502 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:53:57,905 INFO 2502 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:53:58,004 INFO 2502 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:53:58,029 INFO 2502 [egg-security] use csrf middleware
+2018-02-09 15:53:58,031 INFO 2502 [egg-security] use methodnoallow middleware
+2018-02-09 15:53:58,032 INFO 2502 [egg-security] use noopen middleware
+2018-02-09 15:53:58,032 INFO 2502 [egg-security] use nosniff middleware
+2018-02-09 15:53:58,033 INFO 2502 [egg-security] use xssProtection middleware
+2018-02-09 15:53:58,035 INFO 2502 [egg-security] use xframe middleware
+2018-02-09 15:53:58,036 INFO 2502 [egg-security] use dta middleware
+2018-02-09 15:53:58,036 INFO 2502 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:53:58,454 INFO 2502 [egg-watcher:app] watcher start success
+2018-02-09 15:53:57,826 INFO 2499 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:53:57,895 INFO 2499 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:53:57,895 INFO 2499 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:53:57,992 INFO 2499 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:53:57,998 INFO 2499 [egg-security] use csrf middleware
+2018-02-09 15:53:58,000 INFO 2499 [egg-security] use methodnoallow middleware
+2018-02-09 15:53:58,006 INFO 2499 [egg-security] use noopen middleware
+2018-02-09 15:53:58,007 INFO 2499 [egg-security] use nosniff middleware
+2018-02-09 15:53:58,009 INFO 2499 [egg-security] use xssProtection middleware
+2018-02-09 15:53:58,010 INFO 2499 [egg-security] use xframe middleware
+2018-02-09 15:53:58,010 INFO 2499 [egg-security] use dta middleware
+2018-02-09 15:53:58,010 INFO 2499 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:53:58,455 INFO 2499 [egg-watcher:app] watcher start success
+2018-02-09 15:53:57,827 INFO 2500 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:53:57,919 INFO 2500 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:53:57,919 INFO 2500 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:53:58,052 INFO 2500 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:53:58,058 INFO 2500 [egg-security] use csrf middleware
+2018-02-09 15:53:58,059 INFO 2500 [egg-security] use methodnoallow middleware
+2018-02-09 15:53:58,059 INFO 2500 [egg-security] use noopen middleware
+2018-02-09 15:53:58,060 INFO 2500 [egg-security] use nosniff middleware
+2018-02-09 15:53:58,060 INFO 2500 [egg-security] use xssProtection middleware
+2018-02-09 15:53:58,061 INFO 2500 [egg-security] use xframe middleware
+2018-02-09 15:53:58,061 INFO 2500 [egg-security] use dta middleware
+2018-02-09 15:53:58,061 INFO 2500 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:53:58,458 INFO 2500 [egg-watcher:app] watcher start success
+2018-02-09 15:55:38,985 INFO 2560 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:55:39,058 INFO 2560 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:55:39,058 INFO 2560 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:55:39,133 INFO 2560 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:55:39,137 INFO 2560 [egg-security] use csrf middleware
+2018-02-09 15:55:39,138 INFO 2560 [egg-security] use methodnoallow middleware
+2018-02-09 15:55:39,139 INFO 2560 [egg-security] use noopen middleware
+2018-02-09 15:55:39,139 INFO 2560 [egg-security] use nosniff middleware
+2018-02-09 15:55:39,140 INFO 2560 [egg-security] use xssProtection middleware
+2018-02-09 15:55:39,140 INFO 2560 [egg-security] use xframe middleware
+2018-02-09 15:55:39,141 INFO 2560 [egg-security] use dta middleware
+2018-02-09 15:55:39,141 INFO 2560 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:55:39,501 INFO 2560 [egg-watcher:app] watcher start success
+2018-02-09 15:55:38,986 INFO 2561 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:55:39,062 INFO 2561 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:55:39,062 INFO 2561 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:55:39,148 INFO 2561 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:55:39,152 INFO 2561 [egg-security] use csrf middleware
+2018-02-09 15:55:39,153 INFO 2561 [egg-security] use methodnoallow middleware
+2018-02-09 15:55:39,154 INFO 2561 [egg-security] use noopen middleware
+2018-02-09 15:55:39,154 INFO 2561 [egg-security] use nosniff middleware
+2018-02-09 15:55:39,155 INFO 2561 [egg-security] use xssProtection middleware
+2018-02-09 15:55:39,155 INFO 2561 [egg-security] use xframe middleware
+2018-02-09 15:55:39,156 INFO 2561 [egg-security] use dta middleware
+2018-02-09 15:55:39,156 INFO 2561 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:55:39,511 INFO 2561 [egg-watcher:app] watcher start success
+2018-02-09 15:55:39,000 INFO 2562 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:55:39,065 INFO 2562 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:55:39,065 INFO 2562 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:55:39,137 INFO 2562 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:55:39,140 INFO 2562 [egg-security] use csrf middleware
+2018-02-09 15:55:39,140 INFO 2562 [egg-security] use methodnoallow middleware
+2018-02-09 15:55:39,141 INFO 2562 [egg-security] use noopen middleware
+2018-02-09 15:55:39,141 INFO 2562 [egg-security] use nosniff middleware
+2018-02-09 15:55:39,142 INFO 2562 [egg-security] use xssProtection middleware
+2018-02-09 15:55:39,143 INFO 2562 [egg-security] use xframe middleware
+2018-02-09 15:55:39,143 INFO 2562 [egg-security] use dta middleware
+2018-02-09 15:55:39,143 INFO 2562 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:55:39,507 INFO 2562 [egg-watcher:app] watcher start success
+2018-02-09 15:55:39,003 INFO 2563 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 15:55:39,064 INFO 2563 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 15:55:39,064 INFO 2563 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 15:55:39,139 INFO 2563 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 15:55:39,144 INFO 2563 [egg-security] use csrf middleware
+2018-02-09 15:55:39,151 INFO 2563 [egg-security] use methodnoallow middleware
+2018-02-09 15:55:39,152 INFO 2563 [egg-security] use noopen middleware
+2018-02-09 15:55:39,153 INFO 2563 [egg-security] use nosniff middleware
+2018-02-09 15:55:39,153 INFO 2563 [egg-security] use xssProtection middleware
+2018-02-09 15:55:39,154 INFO 2563 [egg-security] use xframe middleware
+2018-02-09 15:55:39,154 INFO 2563 [egg-security] use dta middleware
+2018-02-09 15:55:39,154 INFO 2563 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 15:55:39,539 INFO 2563 [egg-watcher:app] watcher start success
+2018-02-09 16:01:53,090 INFO 2767 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:01:53,170 INFO 2767 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:01:53,170 INFO 2767 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:01:53,270 INFO 2767 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:01:53,273 INFO 2767 [egg-security] use csrf middleware
+2018-02-09 16:01:53,274 INFO 2767 [egg-security] use methodnoallow middleware
+2018-02-09 16:01:53,274 INFO 2767 [egg-security] use noopen middleware
+2018-02-09 16:01:53,275 INFO 2767 [egg-security] use nosniff middleware
+2018-02-09 16:01:53,275 INFO 2767 [egg-security] use xssProtection middleware
+2018-02-09 16:01:53,276 INFO 2767 [egg-security] use xframe middleware
+2018-02-09 16:01:53,276 INFO 2767 [egg-security] use dta middleware
+2018-02-09 16:01:53,276 INFO 2767 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:01:53,658 INFO 2767 [egg-watcher:app] watcher start success
+2018-02-09 16:01:53,090 INFO 2768 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:01:53,167 INFO 2768 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:01:53,168 INFO 2768 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:01:53,269 INFO 2768 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:01:53,272 INFO 2768 [egg-security] use csrf middleware
+2018-02-09 16:01:53,273 INFO 2768 [egg-security] use methodnoallow middleware
+2018-02-09 16:01:53,274 INFO 2768 [egg-security] use noopen middleware
+2018-02-09 16:01:53,274 INFO 2768 [egg-security] use nosniff middleware
+2018-02-09 16:01:53,275 INFO 2768 [egg-security] use xssProtection middleware
+2018-02-09 16:01:53,276 INFO 2768 [egg-security] use xframe middleware
+2018-02-09 16:01:53,277 INFO 2768 [egg-security] use dta middleware
+2018-02-09 16:01:53,277 INFO 2768 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:01:53,655 INFO 2768 [egg-watcher:app] watcher start success
+2018-02-09 16:01:53,112 INFO 2769 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:01:53,169 INFO 2769 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:01:53,169 INFO 2769 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:01:53,270 INFO 2769 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:01:53,274 INFO 2769 [egg-security] use csrf middleware
+2018-02-09 16:01:53,275 INFO 2769 [egg-security] use methodnoallow middleware
+2018-02-09 16:01:53,275 INFO 2769 [egg-security] use noopen middleware
+2018-02-09 16:01:53,276 INFO 2769 [egg-security] use nosniff middleware
+2018-02-09 16:01:53,276 INFO 2769 [egg-security] use xssProtection middleware
+2018-02-09 16:01:53,277 INFO 2769 [egg-security] use xframe middleware
+2018-02-09 16:01:53,277 INFO 2769 [egg-security] use dta middleware
+2018-02-09 16:01:53,277 INFO 2769 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:01:53,655 INFO 2769 [egg-watcher:app] watcher start success
+2018-02-09 16:01:53,123 INFO 2770 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:01:53,177 INFO 2770 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:01:53,177 INFO 2770 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:01:53,288 INFO 2770 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:01:53,294 INFO 2770 [egg-security] use csrf middleware
+2018-02-09 16:01:53,297 INFO 2770 [egg-security] use methodnoallow middleware
+2018-02-09 16:01:53,297 INFO 2770 [egg-security] use noopen middleware
+2018-02-09 16:01:53,297 INFO 2770 [egg-security] use nosniff middleware
+2018-02-09 16:01:53,298 INFO 2770 [egg-security] use xssProtection middleware
+2018-02-09 16:01:53,298 INFO 2770 [egg-security] use xframe middleware
+2018-02-09 16:01:53,299 INFO 2770 [egg-security] use dta middleware
+2018-02-09 16:01:53,300 INFO 2770 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:01:53,653 INFO 2770 [egg-watcher:app] watcher start success
+2018-02-09 16:03:14,987 INFO 2807 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:03:15,040 INFO 2807 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:03:15,040 INFO 2807 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:03:15,132 INFO 2807 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:03:15,137 INFO 2807 [egg-security] use csrf middleware
+2018-02-09 16:03:15,138 INFO 2807 [egg-security] use methodnoallow middleware
+2018-02-09 16:03:15,139 INFO 2807 [egg-security] use noopen middleware
+2018-02-09 16:03:15,139 INFO 2807 [egg-security] use nosniff middleware
+2018-02-09 16:03:15,140 INFO 2807 [egg-security] use xssProtection middleware
+2018-02-09 16:03:15,150 INFO 2807 [egg-security] use xframe middleware
+2018-02-09 16:03:15,153 INFO 2807 [egg-security] use dta middleware
+2018-02-09 16:03:15,153 INFO 2807 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:03:15,528 INFO 2807 [egg-watcher:app] watcher start success
+2018-02-09 16:03:14,983 INFO 2805 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:03:15,040 INFO 2805 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:03:15,040 INFO 2805 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:03:15,132 INFO 2805 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:03:15,137 INFO 2805 [egg-security] use csrf middleware
+2018-02-09 16:03:15,138 INFO 2805 [egg-security] use methodnoallow middleware
+2018-02-09 16:03:15,139 INFO 2805 [egg-security] use noopen middleware
+2018-02-09 16:03:15,139 INFO 2805 [egg-security] use nosniff middleware
+2018-02-09 16:03:15,140 INFO 2805 [egg-security] use xssProtection middleware
+2018-02-09 16:03:15,151 INFO 2805 [egg-security] use xframe middleware
+2018-02-09 16:03:15,154 INFO 2805 [egg-security] use dta middleware
+2018-02-09 16:03:15,154 INFO 2805 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:03:15,537 INFO 2805 [egg-watcher:app] watcher start success
+2018-02-09 16:03:14,988 INFO 2806 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:03:15,041 INFO 2806 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:03:15,041 INFO 2806 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:03:15,132 INFO 2806 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:03:15,137 INFO 2806 [egg-security] use csrf middleware
+2018-02-09 16:03:15,139 INFO 2806 [egg-security] use methodnoallow middleware
+2018-02-09 16:03:15,140 INFO 2806 [egg-security] use noopen middleware
+2018-02-09 16:03:15,140 INFO 2806 [egg-security] use nosniff middleware
+2018-02-09 16:03:15,141 INFO 2806 [egg-security] use xssProtection middleware
+2018-02-09 16:03:15,152 INFO 2806 [egg-security] use xframe middleware
+2018-02-09 16:03:15,155 INFO 2806 [egg-security] use dta middleware
+2018-02-09 16:03:15,155 INFO 2806 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:03:15,537 INFO 2806 [egg-watcher:app] watcher start success
+2018-02-09 16:03:14,984 INFO 2808 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:03:15,040 INFO 2808 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:03:15,040 INFO 2808 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:03:15,132 INFO 2808 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:03:15,137 INFO 2808 [egg-security] use csrf middleware
+2018-02-09 16:03:15,138 INFO 2808 [egg-security] use methodnoallow middleware
+2018-02-09 16:03:15,139 INFO 2808 [egg-security] use noopen middleware
+2018-02-09 16:03:15,139 INFO 2808 [egg-security] use nosniff middleware
+2018-02-09 16:03:15,140 INFO 2808 [egg-security] use xssProtection middleware
+2018-02-09 16:03:15,152 INFO 2808 [egg-security] use xframe middleware
+2018-02-09 16:03:15,154 INFO 2808 [egg-security] use dta middleware
+2018-02-09 16:03:15,154 INFO 2808 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:03:15,533 INFO 2808 [egg-watcher:app] watcher start success
+2018-02-09 16:03:40,235 INFO 2812 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:03:40,291 INFO 2812 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:03:40,291 INFO 2812 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:03:40,366 INFO 2812 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:03:40,370 INFO 2812 [egg-security] use csrf middleware
+2018-02-09 16:03:40,371 INFO 2812 [egg-security] use methodnoallow middleware
+2018-02-09 16:03:40,372 INFO 2812 [egg-security] use noopen middleware
+2018-02-09 16:03:40,372 INFO 2812 [egg-security] use nosniff middleware
+2018-02-09 16:03:40,373 INFO 2812 [egg-security] use xssProtection middleware
+2018-02-09 16:03:40,380 INFO 2812 [egg-security] use xframe middleware
+2018-02-09 16:03:40,384 INFO 2812 [egg-security] use dta middleware
+2018-02-09 16:03:40,384 INFO 2812 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:03:40,839 INFO 2812 [egg-watcher:app] watcher start success
+2018-02-09 16:03:40,247 INFO 2814 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:03:40,297 INFO 2814 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:03:40,297 INFO 2814 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:03:40,369 INFO 2814 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:03:40,374 INFO 2814 [egg-security] use csrf middleware
+2018-02-09 16:03:40,375 INFO 2814 [egg-security] use methodnoallow middleware
+2018-02-09 16:03:40,376 INFO 2814 [egg-security] use noopen middleware
+2018-02-09 16:03:40,376 INFO 2814 [egg-security] use nosniff middleware
+2018-02-09 16:03:40,377 INFO 2814 [egg-security] use xssProtection middleware
+2018-02-09 16:03:40,384 INFO 2814 [egg-security] use xframe middleware
+2018-02-09 16:03:40,387 INFO 2814 [egg-security] use dta middleware
+2018-02-09 16:03:40,387 INFO 2814 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:03:40,733 INFO 2814 [egg-watcher:app] watcher start success
+2018-02-09 16:03:40,256 INFO 2815 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:03:40,306 INFO 2815 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:03:40,307 INFO 2815 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:03:40,375 INFO 2815 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:03:40,380 INFO 2815 [egg-security] use csrf middleware
+2018-02-09 16:03:40,381 INFO 2815 [egg-security] use methodnoallow middleware
+2018-02-09 16:03:40,382 INFO 2815 [egg-security] use noopen middleware
+2018-02-09 16:03:40,382 INFO 2815 [egg-security] use nosniff middleware
+2018-02-09 16:03:40,383 INFO 2815 [egg-security] use xssProtection middleware
+2018-02-09 16:03:40,390 INFO 2815 [egg-security] use xframe middleware
+2018-02-09 16:03:40,394 INFO 2815 [egg-security] use dta middleware
+2018-02-09 16:03:40,394 INFO 2815 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:03:40,722 INFO 2815 [egg-watcher:app] watcher start success
+2018-02-09 16:03:40,253 INFO 2813 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:03:40,305 INFO 2813 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:03:40,305 INFO 2813 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:03:40,377 INFO 2813 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:03:40,382 INFO 2813 [egg-security] use csrf middleware
+2018-02-09 16:03:40,383 INFO 2813 [egg-security] use methodnoallow middleware
+2018-02-09 16:03:40,384 INFO 2813 [egg-security] use noopen middleware
+2018-02-09 16:03:40,384 INFO 2813 [egg-security] use nosniff middleware
+2018-02-09 16:03:40,385 INFO 2813 [egg-security] use xssProtection middleware
+2018-02-09 16:03:40,422 INFO 2813 [egg-security] use xframe middleware
+2018-02-09 16:03:40,426 INFO 2813 [egg-security] use dta middleware
+2018-02-09 16:03:40,426 INFO 2813 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:03:40,773 INFO 2813 [egg-watcher:app] watcher start success
+2018-02-09 16:04:07,477 INFO 2820 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:04:07,541 INFO 2820 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:04:07,541 INFO 2820 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:04:07,646 INFO 2820 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:04:07,652 INFO 2820 [egg-security] use csrf middleware
+2018-02-09 16:04:07,653 INFO 2820 [egg-security] use methodnoallow middleware
+2018-02-09 16:04:07,653 INFO 2820 [egg-security] use noopen middleware
+2018-02-09 16:04:07,654 INFO 2820 [egg-security] use nosniff middleware
+2018-02-09 16:04:07,655 INFO 2820 [egg-security] use xssProtection middleware
+2018-02-09 16:04:07,669 INFO 2820 [egg-security] use xframe middleware
+2018-02-09 16:04:07,672 INFO 2820 [egg-security] use dta middleware
+2018-02-09 16:04:07,672 INFO 2820 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:04:08,031 INFO 2820 [egg-watcher:app] watcher start success
+2018-02-09 16:04:07,473 INFO 2817 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:04:07,543 INFO 2817 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:04:07,543 INFO 2817 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:04:07,645 INFO 2817 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:04:07,650 INFO 2817 [egg-security] use csrf middleware
+2018-02-09 16:04:07,652 INFO 2817 [egg-security] use methodnoallow middleware
+2018-02-09 16:04:07,653 INFO 2817 [egg-security] use noopen middleware
+2018-02-09 16:04:07,654 INFO 2817 [egg-security] use nosniff middleware
+2018-02-09 16:04:07,655 INFO 2817 [egg-security] use xssProtection middleware
+2018-02-09 16:04:07,665 INFO 2817 [egg-security] use xframe middleware
+2018-02-09 16:04:07,670 INFO 2817 [egg-security] use dta middleware
+2018-02-09 16:04:07,670 INFO 2817 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:04:08,036 INFO 2817 [egg-watcher:app] watcher start success
+2018-02-09 16:04:07,480 INFO 2819 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:04:07,541 INFO 2819 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:04:07,541 INFO 2819 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:04:07,645 INFO 2819 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:04:07,650 INFO 2819 [egg-security] use csrf middleware
+2018-02-09 16:04:07,652 INFO 2819 [egg-security] use methodnoallow middleware
+2018-02-09 16:04:07,653 INFO 2819 [egg-security] use noopen middleware
+2018-02-09 16:04:07,654 INFO 2819 [egg-security] use nosniff middleware
+2018-02-09 16:04:07,655 INFO 2819 [egg-security] use xssProtection middleware
+2018-02-09 16:04:07,658 INFO 2819 [egg-security] use xframe middleware
+2018-02-09 16:04:07,661 INFO 2819 [egg-security] use dta middleware
+2018-02-09 16:04:07,661 INFO 2819 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:04:08,031 INFO 2819 [egg-watcher:app] watcher start success
+2018-02-09 16:04:07,521 INFO 2818 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:04:07,577 INFO 2818 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:04:07,577 INFO 2818 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:04:07,750 INFO 2818 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:04:07,754 INFO 2818 [egg-security] use csrf middleware
+2018-02-09 16:04:07,755 INFO 2818 [egg-security] use methodnoallow middleware
+2018-02-09 16:04:07,757 INFO 2818 [egg-security] use noopen middleware
+2018-02-09 16:04:07,758 INFO 2818 [egg-security] use nosniff middleware
+2018-02-09 16:04:07,759 INFO 2818 [egg-security] use xssProtection middleware
+2018-02-09 16:04:07,767 INFO 2818 [egg-security] use xframe middleware
+2018-02-09 16:04:07,776 INFO 2818 [egg-security] use dta middleware
+2018-02-09 16:04:07,776 INFO 2818 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:04:08,054 INFO 2818 [egg-watcher:app] watcher start success
+2018-02-09 16:04:41,126 INFO 2827 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:04:41,232 INFO 2827 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:04:41,232 INFO 2827 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:04:41,378 INFO 2827 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:04:41,382 INFO 2827 [egg-security] use csrf middleware
+2018-02-09 16:04:41,383 INFO 2827 [egg-security] use methodnoallow middleware
+2018-02-09 16:04:41,388 INFO 2827 [egg-security] use noopen middleware
+2018-02-09 16:04:41,388 INFO 2827 [egg-security] use nosniff middleware
+2018-02-09 16:04:41,389 INFO 2827 [egg-security] use xssProtection middleware
+2018-02-09 16:04:41,390 INFO 2827 [egg-security] use xframe middleware
+2018-02-09 16:04:41,391 INFO 2827 [egg-security] use dta middleware
+2018-02-09 16:04:41,391 INFO 2827 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:04:42,040 INFO 2827 [egg-watcher:app] watcher start success
+2018-02-09 16:04:41,128 INFO 2825 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:04:41,235 INFO 2825 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:04:41,235 INFO 2825 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:04:41,388 INFO 2825 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:04:41,397 INFO 2825 [egg-security] use csrf middleware
+2018-02-09 16:04:41,398 INFO 2825 [egg-security] use methodnoallow middleware
+2018-02-09 16:04:41,399 INFO 2825 [egg-security] use noopen middleware
+2018-02-09 16:04:41,399 INFO 2825 [egg-security] use nosniff middleware
+2018-02-09 16:04:41,400 INFO 2825 [egg-security] use xssProtection middleware
+2018-02-09 16:04:41,400 INFO 2825 [egg-security] use xframe middleware
+2018-02-09 16:04:41,401 INFO 2825 [egg-security] use dta middleware
+2018-02-09 16:04:41,401 INFO 2825 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:04:42,038 INFO 2825 [egg-watcher:app] watcher start success
+2018-02-09 16:04:41,214 INFO 2828 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:04:41,285 INFO 2828 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:04:41,285 INFO 2828 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:04:41,445 INFO 2828 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:04:41,459 INFO 2828 [egg-security] use csrf middleware
+2018-02-09 16:04:41,461 INFO 2828 [egg-security] use methodnoallow middleware
+2018-02-09 16:04:41,465 INFO 2828 [egg-security] use noopen middleware
+2018-02-09 16:04:41,465 INFO 2828 [egg-security] use nosniff middleware
+2018-02-09 16:04:41,466 INFO 2828 [egg-security] use xssProtection middleware
+2018-02-09 16:04:41,476 INFO 2828 [egg-security] use xframe middleware
+2018-02-09 16:04:41,488 INFO 2828 [egg-security] use dta middleware
+2018-02-09 16:04:41,488 INFO 2828 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:04:42,201 INFO 2828 [egg-watcher:app] watcher start success
+2018-02-09 16:04:41,209 INFO 2826 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:04:41,277 INFO 2826 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:04:41,277 INFO 2826 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:04:41,436 INFO 2826 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:04:41,452 INFO 2826 [egg-security] use csrf middleware
+2018-02-09 16:04:41,456 INFO 2826 [egg-security] use methodnoallow middleware
+2018-02-09 16:04:41,458 INFO 2826 [egg-security] use noopen middleware
+2018-02-09 16:04:41,458 INFO 2826 [egg-security] use nosniff middleware
+2018-02-09 16:04:41,459 INFO 2826 [egg-security] use xssProtection middleware
+2018-02-09 16:04:41,469 INFO 2826 [egg-security] use xframe middleware
+2018-02-09 16:04:41,471 INFO 2826 [egg-security] use dta middleware
+2018-02-09 16:04:41,471 INFO 2826 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:04:42,205 INFO 2826 [egg-watcher:app] watcher start success
+2018-02-09 16:05:05,316 INFO 2836 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:05:05,480 INFO 2836 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:05:05,480 INFO 2836 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:05:05,593 INFO 2836 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:05:05,596 INFO 2836 [egg-security] use csrf middleware
+2018-02-09 16:05:05,597 INFO 2836 [egg-security] use methodnoallow middleware
+2018-02-09 16:05:05,597 INFO 2836 [egg-security] use noopen middleware
+2018-02-09 16:05:05,598 INFO 2836 [egg-security] use nosniff middleware
+2018-02-09 16:05:05,599 INFO 2836 [egg-security] use xssProtection middleware
+2018-02-09 16:05:05,599 INFO 2836 [egg-security] use xframe middleware
+2018-02-09 16:05:05,600 INFO 2836 [egg-security] use dta middleware
+2018-02-09 16:05:05,600 INFO 2836 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:05:05,995 INFO 2836 [egg-watcher:app] watcher start success
+2018-02-09 16:05:05,420 INFO 2834 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:05:05,494 INFO 2834 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:05:05,494 INFO 2834 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:05:05,591 INFO 2834 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:05:05,595 INFO 2834 [egg-security] use csrf middleware
+2018-02-09 16:05:05,596 INFO 2834 [egg-security] use methodnoallow middleware
+2018-02-09 16:05:05,597 INFO 2834 [egg-security] use noopen middleware
+2018-02-09 16:05:05,598 INFO 2834 [egg-security] use nosniff middleware
+2018-02-09 16:05:05,598 INFO 2834 [egg-security] use xssProtection middleware
+2018-02-09 16:05:05,599 INFO 2834 [egg-security] use xframe middleware
+2018-02-09 16:05:05,600 INFO 2834 [egg-security] use dta middleware
+2018-02-09 16:05:05,600 INFO 2834 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:05:06,029 INFO 2834 [egg-watcher:app] watcher start success
+2018-02-09 16:05:05,450 INFO 2835 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:05:05,505 INFO 2835 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:05:05,505 INFO 2835 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:05:05,592 INFO 2835 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:05:05,595 INFO 2835 [egg-security] use csrf middleware
+2018-02-09 16:05:05,596 INFO 2835 [egg-security] use methodnoallow middleware
+2018-02-09 16:05:05,597 INFO 2835 [egg-security] use noopen middleware
+2018-02-09 16:05:05,598 INFO 2835 [egg-security] use nosniff middleware
+2018-02-09 16:05:05,598 INFO 2835 [egg-security] use xssProtection middleware
+2018-02-09 16:05:05,599 INFO 2835 [egg-security] use xframe middleware
+2018-02-09 16:05:05,600 INFO 2835 [egg-security] use dta middleware
+2018-02-09 16:05:05,600 INFO 2835 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:05:06,044 INFO 2835 [egg-watcher:app] watcher start success
+2018-02-09 16:05:05,467 INFO 2833 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:05:05,516 INFO 2833 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:05:05,516 INFO 2833 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:05:05,599 INFO 2833 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:05:05,603 INFO 2833 [egg-security] use csrf middleware
+2018-02-09 16:05:05,608 INFO 2833 [egg-security] use methodnoallow middleware
+2018-02-09 16:05:05,608 INFO 2833 [egg-security] use noopen middleware
+2018-02-09 16:05:05,610 INFO 2833 [egg-security] use nosniff middleware
+2018-02-09 16:05:05,610 INFO 2833 [egg-security] use xssProtection middleware
+2018-02-09 16:05:05,610 INFO 2833 [egg-security] use xframe middleware
+2018-02-09 16:05:05,611 INFO 2833 [egg-security] use dta middleware
+2018-02-09 16:05:05,611 INFO 2833 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:05:06,045 INFO 2833 [egg-watcher:app] watcher start success
+2018-02-09 16:06:03,999 INFO 2845 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:06:04,074 INFO 2845 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:06:04,074 INFO 2845 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:06:04,190 INFO 2845 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:06:04,194 INFO 2845 [egg-security] use csrf middleware
+2018-02-09 16:06:04,195 INFO 2845 [egg-security] use methodnoallow middleware
+2018-02-09 16:06:04,197 INFO 2845 [egg-security] use noopen middleware
+2018-02-09 16:06:04,198 INFO 2845 [egg-security] use nosniff middleware
+2018-02-09 16:06:04,199 INFO 2845 [egg-security] use xssProtection middleware
+2018-02-09 16:06:04,207 INFO 2845 [egg-security] use xframe middleware
+2018-02-09 16:06:04,209 INFO 2845 [egg-security] use dta middleware
+2018-02-09 16:06:04,209 INFO 2845 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:06:04,864 INFO 2845 [egg-watcher:app] watcher start success
+2018-02-09 16:06:03,999 INFO 2843 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:06:04,075 INFO 2843 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:06:04,075 INFO 2843 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:06:04,188 INFO 2843 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:06:04,193 INFO 2843 [egg-security] use csrf middleware
+2018-02-09 16:06:04,196 INFO 2843 [egg-security] use methodnoallow middleware
+2018-02-09 16:06:04,197 INFO 2843 [egg-security] use noopen middleware
+2018-02-09 16:06:04,198 INFO 2843 [egg-security] use nosniff middleware
+2018-02-09 16:06:04,199 INFO 2843 [egg-security] use xssProtection middleware
+2018-02-09 16:06:04,208 INFO 2843 [egg-security] use xframe middleware
+2018-02-09 16:06:04,210 INFO 2843 [egg-security] use dta middleware
+2018-02-09 16:06:04,210 INFO 2843 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:06:04,848 INFO 2843 [egg-watcher:app] watcher start success
+2018-02-09 16:06:04,003 INFO 2846 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:06:04,076 INFO 2846 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:06:04,076 INFO 2846 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:06:04,194 INFO 2846 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:06:04,207 INFO 2846 [egg-security] use csrf middleware
+2018-02-09 16:06:04,209 INFO 2846 [egg-security] use methodnoallow middleware
+2018-02-09 16:06:04,235 INFO 2846 [egg-security] use noopen middleware
+2018-02-09 16:06:04,237 INFO 2846 [egg-security] use nosniff middleware
+2018-02-09 16:06:04,238 INFO 2846 [egg-security] use xssProtection middleware
+2018-02-09 16:06:04,247 INFO 2846 [egg-security] use xframe middleware
+2018-02-09 16:06:04,250 INFO 2846 [egg-security] use dta middleware
+2018-02-09 16:06:04,250 INFO 2846 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:06:04,849 INFO 2846 [egg-watcher:app] watcher start success
+2018-02-09 16:06:04,032 INFO 2844 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:06:04,109 INFO 2844 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:06:04,109 INFO 2844 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:06:04,234 INFO 2844 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:06:04,248 INFO 2844 [egg-security] use csrf middleware
+2018-02-09 16:06:04,249 INFO 2844 [egg-security] use methodnoallow middleware
+2018-02-09 16:06:04,249 INFO 2844 [egg-security] use noopen middleware
+2018-02-09 16:06:04,250 INFO 2844 [egg-security] use nosniff middleware
+2018-02-09 16:06:04,250 INFO 2844 [egg-security] use xssProtection middleware
+2018-02-09 16:06:04,251 INFO 2844 [egg-security] use xframe middleware
+2018-02-09 16:06:04,252 INFO 2844 [egg-security] use dta middleware
+2018-02-09 16:06:04,252 INFO 2844 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:06:04,894 INFO 2844 [egg-watcher:app] watcher start success
+2018-02-09 16:06:08,018 INFO 2847 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:06:08,262 INFO 2847 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:06:08,262 INFO 2847 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:06:08,429 INFO 2847 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:06:08,444 INFO 2847 [egg-security] use csrf middleware
+2018-02-09 16:06:08,445 INFO 2847 [egg-security] use methodnoallow middleware
+2018-02-09 16:06:08,446 INFO 2847 [egg-security] use noopen middleware
+2018-02-09 16:06:08,447 INFO 2847 [egg-security] use nosniff middleware
+2018-02-09 16:06:08,447 INFO 2847 [egg-security] use xssProtection middleware
+2018-02-09 16:06:08,456 INFO 2847 [egg-security] use xframe middleware
+2018-02-09 16:06:08,461 INFO 2847 [egg-security] use dta middleware
+2018-02-09 16:06:08,461 INFO 2847 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:06:08,881 INFO 2847 [egg-watcher:app] watcher start success
+2018-02-09 16:06:08,018 INFO 2849 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:06:08,264 INFO 2849 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:06:08,264 INFO 2849 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:06:08,433 INFO 2849 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:06:08,437 INFO 2849 [egg-security] use csrf middleware
+2018-02-09 16:06:08,439 INFO 2849 [egg-security] use methodnoallow middleware
+2018-02-09 16:06:08,441 INFO 2849 [egg-security] use noopen middleware
+2018-02-09 16:06:08,442 INFO 2849 [egg-security] use nosniff middleware
+2018-02-09 16:06:08,442 INFO 2849 [egg-security] use xssProtection middleware
+2018-02-09 16:06:08,450 INFO 2849 [egg-security] use xframe middleware
+2018-02-09 16:06:08,473 INFO 2849 [egg-security] use dta middleware
+2018-02-09 16:06:08,474 INFO 2849 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:06:08,922 INFO 2849 [egg-watcher:app] watcher start success
+2018-02-09 16:06:08,019 INFO 2848 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:06:08,307 INFO 2848 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:06:08,307 INFO 2848 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:06:08,446 INFO 2848 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:06:08,452 INFO 2848 [egg-security] use csrf middleware
+2018-02-09 16:06:08,453 INFO 2848 [egg-security] use methodnoallow middleware
+2018-02-09 16:06:08,454 INFO 2848 [egg-security] use noopen middleware
+2018-02-09 16:06:08,454 INFO 2848 [egg-security] use nosniff middleware
+2018-02-09 16:06:08,455 INFO 2848 [egg-security] use xssProtection middleware
+2018-02-09 16:06:08,468 INFO 2848 [egg-security] use xframe middleware
+2018-02-09 16:06:08,470 INFO 2848 [egg-security] use dta middleware
+2018-02-09 16:06:08,470 INFO 2848 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:06:08,933 INFO 2848 [egg-watcher:app] watcher start success
+2018-02-09 16:06:08,033 INFO 2850 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:06:08,307 INFO 2850 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:06:08,307 INFO 2850 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:06:08,440 INFO 2850 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:06:08,454 INFO 2850 [egg-security] use csrf middleware
+2018-02-09 16:06:08,455 INFO 2850 [egg-security] use methodnoallow middleware
+2018-02-09 16:06:08,456 INFO 2850 [egg-security] use noopen middleware
+2018-02-09 16:06:08,456 INFO 2850 [egg-security] use nosniff middleware
+2018-02-09 16:06:08,459 INFO 2850 [egg-security] use xssProtection middleware
+2018-02-09 16:06:08,470 INFO 2850 [egg-security] use xframe middleware
+2018-02-09 16:06:08,472 INFO 2850 [egg-security] use dta middleware
+2018-02-09 16:06:08,472 INFO 2850 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:06:08,874 INFO 2850 [egg-watcher:app] watcher start success
+2018-02-09 16:09:58,792 INFO 2946 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:09:58,885 INFO 2946 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:09:58,885 INFO 2946 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:09:59,025 INFO 2946 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:09:59,030 INFO 2946 [egg-security] use csrf middleware
+2018-02-09 16:09:59,031 INFO 2946 [egg-security] use methodnoallow middleware
+2018-02-09 16:09:59,033 INFO 2946 [egg-security] use noopen middleware
+2018-02-09 16:09:59,036 INFO 2946 [egg-security] use nosniff middleware
+2018-02-09 16:09:59,039 INFO 2946 [egg-security] use xssProtection middleware
+2018-02-09 16:09:59,051 INFO 2946 [egg-security] use xframe middleware
+2018-02-09 16:09:59,055 INFO 2946 [egg-security] use dta middleware
+2018-02-09 16:09:59,055 INFO 2946 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:09:59,505 INFO 2946 [egg-watcher:app] watcher start success
+2018-02-09 16:09:58,836 INFO 2943 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:09:58,968 INFO 2943 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:09:58,968 INFO 2943 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:09:59,087 INFO 2943 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:09:59,093 INFO 2943 [egg-security] use csrf middleware
+2018-02-09 16:09:59,094 INFO 2943 [egg-security] use methodnoallow middleware
+2018-02-09 16:09:59,094 INFO 2943 [egg-security] use noopen middleware
+2018-02-09 16:09:59,095 INFO 2943 [egg-security] use nosniff middleware
+2018-02-09 16:09:59,096 INFO 2943 [egg-security] use xssProtection middleware
+2018-02-09 16:09:59,108 INFO 2943 [egg-security] use xframe middleware
+2018-02-09 16:09:59,110 INFO 2943 [egg-security] use dta middleware
+2018-02-09 16:09:59,110 INFO 2943 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:09:59,508 INFO 2943 [egg-watcher:app] watcher start success
+2018-02-09 16:09:58,866 INFO 2944 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:09:58,997 INFO 2944 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:09:58,997 INFO 2944 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:09:59,121 INFO 2944 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:09:59,129 INFO 2944 [egg-security] use csrf middleware
+2018-02-09 16:09:59,131 INFO 2944 [egg-security] use methodnoallow middleware
+2018-02-09 16:09:59,134 INFO 2944 [egg-security] use noopen middleware
+2018-02-09 16:09:59,135 INFO 2944 [egg-security] use nosniff middleware
+2018-02-09 16:09:59,135 INFO 2944 [egg-security] use xssProtection middleware
+2018-02-09 16:09:59,143 INFO 2944 [egg-security] use xframe middleware
+2018-02-09 16:09:59,146 INFO 2944 [egg-security] use dta middleware
+2018-02-09 16:09:59,146 INFO 2944 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:09:59,555 INFO 2944 [egg-watcher:app] watcher start success
+2018-02-09 16:09:58,866 INFO 2945 [egg:logger] init all loggers with options: {"dir":"/Users/b004577/Documents/workshop/wechatEggVue/logs","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"DEBUG","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"wechatEggVue-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":true,"type":"application"}
+2018-02-09 16:09:58,991 INFO 2945 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js
+2018-02-09 16:09:58,991 INFO 2945 [egg-schedule]: register schedule /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2018-02-09 16:09:59,109 INFO 2945 [egg-static] starting static serve /public/ -> /Users/b004577/Documents/workshop/wechatEggVue/public
+2018-02-09 16:09:59,119 INFO 2945 [egg-security] use csrf middleware
+2018-02-09 16:09:59,126 INFO 2945 [egg-security] use methodnoallow middleware
+2018-02-09 16:09:59,127 INFO 2945 [egg-security] use noopen middleware
+2018-02-09 16:09:59,128 INFO 2945 [egg-security] use nosniff middleware
+2018-02-09 16:09:59,134 INFO 2945 [egg-security] use xssProtection middleware
+2018-02-09 16:09:59,140 INFO 2945 [egg-security] use xframe middleware
+2018-02-09 16:09:59,144 INFO 2945 [egg-security] use dta middleware
+2018-02-09 16:09:59,144 INFO 2945 [egg-security] compose 7 middlewares into one security middleware
+2018-02-09 16:09:59,542 INFO 2945 [egg-watcher:app] watcher start success
