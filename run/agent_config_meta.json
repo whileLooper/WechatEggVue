@@ -56,25 +56,18 @@
     "maxFiles": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-static/config/config.default.js"
   },
   "keys": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+  "initWechat": {
+    "token": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "appID": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "appSecret": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "encodingAESKey": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "getAccessToken": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "saveAccessToken": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js"
+  },
   "middleware": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
-  "development": {
-    "watchDirs": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",
-    "ignoreDirs": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",
-    "fastReady": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-development/config/config.default.js"
-  },
-  "logview": {
-    "dir": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",
-    "prefix": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logview/config/config.default.js",
-    "staticHost": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logview/config/config.default.js"
-  },
   "security": {
-    "domainWhiteList": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",
-    "protocolWhiteList": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
+      "enable": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
       "useSession": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
       "ignoreJSON": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
       "cookieName": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
@@ -83,6 +76,9 @@
       "bodyName": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
       "queryName": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js"
     },
+    "domainWhiteList": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",
+    "protocolWhiteList": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
     "xframe": {
       "enable": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
       "value": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js"
@@ -112,6 +108,18 @@
       "enable": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js",
       "policy": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js"
     }
+  },
+  "development": {
+    "watchDirs": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",
+    "ignoreDirs": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",
+    "fastReady": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-development/config/config.default.js"
+  },
+  "logview": {
+    "dir": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",
+    "prefix": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logview/config/config.default.js",
+    "staticHost": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logview/config/config.default.js"
   },
   "session": {
     "maxAge": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-session/config/config.default.js",

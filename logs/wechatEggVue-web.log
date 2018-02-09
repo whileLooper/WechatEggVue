@@ -107,3 +107,60 @@
 2018-02-09 16:09:59,110 INFO 2943 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
 2018-02-09 16:09:59,147 INFO 2944 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
 2018-02-09 16:09:59,144 INFO 2945 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:19:04,237 INFO 2946 [-/192.168.20.78/-/112ms GET /] [access] 192.168.20.78: - GET / HTTP/200 191626 - 98 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:19:10,033 INFO 2944 [-/192.168.20.78/-/20ms GET /pager?pageIndex=2&pageSize=10] [access] 192.168.20.78: - GET /pager?pageIndex=2&pageSize=10 HTTP/200 1946 http://192.168.20.78:7001/ 6 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:19:11,229 INFO 2944 [-/192.168.20.78/-/23ms GET /client] [access] 192.168.20.78: - GET /client HTTP/200 2841 http://192.168.20.78:7001/ 21 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:22:02,938 INFO 2945 [-/192.168.20.78/-/23ms GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478] [access] 192.168.20.78: - GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478 HTTP/200 9 - 8 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:23:15,896 INFO 3440 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:23:15,877 INFO 3438 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:23:15,909 INFO 3441 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:23:16,006 INFO 3439 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:23:23,558 INFO 3438 [-/192.168.20.78/-/14ms GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478] [access] 192.168.20.78: - GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478 HTTP/200 9 - 6 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:24:11,979 INFO 3438 [-/192.168.20.78/-/2ms GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478] [access] 192.168.20.78: - GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478 HTTP/200 9 - 1 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:24:38,708 INFO 3508 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:24:38,722 INFO 3510 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:24:38,707 INFO 3511 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:24:38,709 INFO 3509 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:24:39,573 INFO 3510 [-/192.168.20.78/-/15ms GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478] [access] 192.168.20.78: - GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478 HTTP/200 9 - 5 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:27:32,687 INFO 3753 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:27:32,744 INFO 3755 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:27:32,914 INFO 3752 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:27:32,916 INFO 3754 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:29:08,947 INFO 3901 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:29:08,931 INFO 3900 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:29:08,932 INFO 3903 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:29:08,969 INFO 3902 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:29:19,542 INFO 3900 [-/192.168.20.78/-/378ms GET /] [access] 192.168.20.78: - GET / HTTP/200 191626 - 361 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:29:27,916 INFO 3901 [-/192.168.20.78/-/12ms GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478] [access] 192.168.20.78: - GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478 HTTP/200 9 - 4 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:30:05,092 INFO 3903 [-/::1/-/15ms GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478] [access] ::1: - GET /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478 HTTP/200 9 - 5 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:30:26,980 WARN 3902 [-/::1/-/10ms POST /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2018-02-09 16:30:26,983 WARN 3902 [-/::1/-/12ms POST /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa/lib/context.js:92:11)
+    at Object.assertCsrf (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/app/extend/context.js:139:17)
+    at csrf (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/lib/middlewares/csrf.js:31:9)
+    at dispatch (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:42:32)
+    at /Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:43:18)
+    at session (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:43:18)
+    at overrideMethod (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:43:18)
+    at bodyParser (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-bodyparser/index.js:86:11)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+message: 'missing csrf token'
+pid: 3902
+hostname: a4285760
+
+2018-02-09 16:31:15,741 INFO 4089 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:31:15,741 INFO 4090 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:31:15,741 INFO 4091 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:31:15,741 INFO 4092 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:31:26,075 INFO 4090 [-/192.168.20.78/-/212ms GET /] [access] 192.168.20.78: - GET / HTTP/200 191626 - 197 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+2018-02-09 16:32:01,925 INFO 4154 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:32:02,001 INFO 4157 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:32:01,924 INFO 4152 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs
+2018-02-09 16:32:01,924 INFO 4156 [egg-logview] mount log /Users/b004577/Documents/workshop/wechatEggVue/logs at http://127.0.0.1:7001/__logs

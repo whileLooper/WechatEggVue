@@ -266,3 +266,44 @@ name: 'unhandledRejectionError'
 pid: 2847
 hostname: a4285760
 
+2018-02-09 16:22:02,947 ERROR 2945 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/b004577/Documents/workshop/wechatEggVue/config/wechat.txt'
+Error: ENOENT: no such file or directory, open '/Users/b004577/Documents/workshop/wechatEggVue/config/wechat.txt'
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/Users/b004577/Documents/workshop/wechatEggVue/config/wechat.txt'
+name: 'unhandledRejectionError'
+pid: 2945
+hostname: a4285760
+
+2018-02-09 16:23:23,568 ERROR 3438 nodejs.unhandledRejectionError: ENOENT: no such file or directory, open '/Users/b004577/Documents/workshop/wechatEggVue/config/wechat.txt'
+Error: ENOENT: no such file or directory, open '/Users/b004577/Documents/workshop/wechatEggVue/config/wechat.txt'
+errno: -2
+code: 'ENOENT'
+syscall: 'open'
+path: '/Users/b004577/Documents/workshop/wechatEggVue/config/wechat.txt'
+name: 'unhandledRejectionError'
+pid: 3438
+hostname: a4285760
+
+2018-02-09 16:31:36,930 ERROR 4090 [-/::1/-/5ms POST /wechat?signature=70c0306a8ffd30bde12f6729c6126d0168898115&timestamp=1518211289&nonce=503269362&openid=o2yHcwBCqtLugNG50gKglP1-N478] nodejs.TypeError: content-type header is missing from object
+    at getcontenttype (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/content-type/index.js:186:11)
+    at Object.parse (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/content-type/index.js:113:7)
+    at WechatController.index (/Users/b004577/Documents/workshop/wechatEggVue/app/controller/wechat/wechat.js:40:31)
+    at Object.callFn (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-core/lib/loader/mixin/controller.js:84:20)
+    at Object.callFn (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-core/lib/utils/index.js:44:21)
+    at wrappedController (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-core/lib/utils/router.js:322:18)
+    at dispatch (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-router/lib/router.js:346:16
+    at dispatch (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at /Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+    at dispatch (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-router/lib/router.js:351:31)
+    at dispatch (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:42:32)
+    at next (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-compose/index.js:43:18)
+    at createGenerator (/Users/b004577/Documents/workshop/wechatEggVue/node_modules/koa-convert/index.js:24:16)
+
+pid: 4090
+hostname: a4285760
+

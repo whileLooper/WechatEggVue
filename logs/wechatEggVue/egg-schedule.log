@@ -28,3 +28,7 @@
 2018-02-09 15:53:58,495 INFO 2498 [egg-schedule] /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-02-10 00:00:01.000
 2018-02-09 15:55:39,563 INFO 2559 [egg-schedule] /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-02-10 00:00:00.000
 2018-02-09 15:55:39,565 INFO 2559 [egg-schedule] /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-02-10 00:00:01.000
+2018-02-09 16:29:09,398 INFO 3899 [egg-schedule] /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-02-10 00:00:00.000
+2018-02-09 16:29:09,399 INFO 3899 [egg-schedule] /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-02-10 00:00:01.000
+2018-02-09 16:31:16,287 INFO 4088 [egg-schedule] /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-02-10 00:00:00.000
+2018-02-09 16:31:16,289 INFO 4088 [egg-schedule] /Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-02-10 00:00:01.000
