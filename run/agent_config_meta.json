@@ -109,6 +109,14 @@
       "policy": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-security/config/config.default.js"
     }
   },
+  "firebase": {
+    "apiKey": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "authDomain": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "databaseURL": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "projectId": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "storageBucket": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js",
+    "messagingSenderId": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.default.js"
+  },
   "development": {
     "watchDirs": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",
     "ignoreDirs": "/Users/b004577/Documents/workshop/wechatEggVue/config/config.local.js",

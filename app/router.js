@@ -11,6 +11,9 @@ module.exports = app => {
   app.get('/await/element', app.controller.await.await.element);
   app.get('/await/pager', app.controller.await.await.pager);
 
+
+  app.get('/admin', app.controller.admin.admin.index);
+  app.get('/about', app.controller.about.about.index);
   app.get('/about', app.controller.about.about.index);
   app.get('/router', app.controller.router.router.index);
   app.get('/dynamic', app.controller.dynamic.dynamic.index);
