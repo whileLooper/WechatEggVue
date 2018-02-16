@@ -19,9 +19,11 @@ class ReplyService extends Service {
   async reply(message) {
     // 消息逻辑处理
     const content = message.Content;
-    const autoReply = await this.getFirebaseReplys().autoReply;
-    const greetingMsg = await this.getFirebaseReplys().greeting;
-    const unknowKeyword = await this.getFirebaseReplys().unknowKeyword;
+    const firebaseData = await this.getFirebaseReplys();
+    console.log(firebaseData);
+    const autoReply = firebaseData.autoReply;
+    const greetingMsg = firebaseData.greeting;
+    const unknowKeyword = firebaseData.unknowKeyword;
 
     let reply = unknowKeyword + content;
     if (message.MsgType === 'event') {
