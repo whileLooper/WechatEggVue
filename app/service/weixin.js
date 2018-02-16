@@ -20,9 +20,8 @@ class ReplyService extends Service {
     // 消息逻辑处理
     const content = message.Content;
     const firebaseData = await this.getFirebaseReplys();
-    console.log(firebaseData);
     const autoReply = firebaseData.autoReply;
-    const greetingMsg = firebaseData.greeting;
+    const greetingMsg = firebaseData.greetingMsg;
     const unknowKeyword = firebaseData.unknowKeyword;
 
     let reply = unknowKeyword + content;
@@ -34,6 +33,7 @@ class ReplyService extends Service {
         }
 
         reply = greetingMsg + ' \r\n';
+        console.log(reply);
       } else if (message.Event === 'unsubscribe') {
         // 取消关注
         console.log('取消关注。。。');
