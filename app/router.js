@@ -10,7 +10,8 @@ module.exports = app => {
   app.get('/await/client', app.controller.await.await.client);
   app.get('/await/element', app.controller.await.await.element);
   app.get('/await/pager', app.controller.await.await.pager);
-
+  
+  app.get('/admin', app.controller.admin.admin.index);
   app.get('/about', app.controller.about.about.index);
   app.get('/about', app.controller.about.about.index);
   app.get('/router', app.controller.router.router.index);
@@ -26,6 +27,5 @@ module.exports = app => {
   app.post('/wechat', app.controller.wechat.wechat.index);
 
   // api request
-  app.get('/admin', app.controller.admin.admin.index);
   app.post('/admin/updateGreetingMSG', app.controller.admin.admin.updateGreetingMSG);
 };

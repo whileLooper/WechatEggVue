@@ -425,8 +425,8 @@
     },
     "initWechat": {
       "token": "bhu89ijnmko0",
-      "appID": "wx58080b1fe9cb4f49",
-      "appSecret": "<String len: 32>",
+      "appID": "wxd61026a80b610e7c",
+      "appSecret": "<String len: 63>",
       "encodingAESKey": "HX2DzbFRh9qY4toNv9XVL1kYxgoYCTwoZ3haN92kAzl",
       "getAccessToken": "<Function getAccessToken>",
       "saveAccessToken": "<Function saveAccessToken>"
