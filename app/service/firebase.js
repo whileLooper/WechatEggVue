@@ -27,6 +27,11 @@ class FirebaseService extends Service {
 
   }
 
+  update(path, data) {
+    this.init();
+    return firebase.database().ref(path).set(data);
+  }
+
   push() {
 
   }

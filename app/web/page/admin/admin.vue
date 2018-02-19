@@ -3,9 +3,9 @@
     <div id="example" class="">
       <p class="text">Greeting Message when users subscribe your account: <span class="label label-info">{{greetingMsg}}</span></p>       
       <div class="input-group input-group-sm">
-        <input type="text" class="form-control" v-bind:placeholder=greetingMsg>
+        <input type="text" class="form-control" v-bind:placeholder=greetingMsg v-model="inputGreeting">
         <span class="input-group-btn">
-          <button class="btn btn-default" type="button">Submit</button>
+          <button class="btn btn-default" type="button" v-on:click="onSubmit(inputGreeting)">Submit</button>
         </span>
       </div>
       <br>
@@ -29,7 +29,17 @@
   export default {
     data() {
       return {
-        counter: 0
+        inputGreeting: ''
+      }
+    },
+    methods: {
+      onSubmit(msg) {
+        if (msg.length > 0) {
+          console.log(msg);
+          this.$http.post('/admin/updateGreetingMSG', { 'greeting': msg })
+            .then ((res)=> console.log (res.body))
+            .catch ((error)=> console.log(error));
+        }
       }
     }
   }

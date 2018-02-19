@@ -136,19 +136,6 @@
       "GET"
     ],
     "paramNames": [],
-    "path": "/admin",
-    "regexp": "/^\\/admin(?:\\/(?=$))?$/",
-    "stack": [
-      "wrappedController"
-    ]
-  },
-  {
-    "name": null,
-    "methods": [
-      "HEAD",
-      "GET"
-    ],
-    "paramNames": [],
     "path": "/about",
     "regexp": "/^\\/about(?:\\/(?=$))?$/",
     "stack": [
@@ -328,6 +315,31 @@
     "paramNames": [],
     "path": "/wechat",
     "regexp": "/^\\/wechat(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/admin",
+    "regexp": "/^\\/admin(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/admin/updateGreetingMSG",
+    "regexp": "/^\\/admin\\/updateGreetingMSG(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

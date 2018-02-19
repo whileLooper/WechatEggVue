@@ -10,13 +10,13 @@
       "domainWhiteList": [
         "http://localhost:7001",
         "http://127.0.0.1:7001",
-        "http://11.243.1.149:7001",
+        "http://192.168.106.127:7001",
         "http://localhost:9000",
         "http://127.0.0.1:9000",
-        "http://11.243.1.149:9000",
+        "http://192.168.106.127:9000",
         "http://localhost:9001",
         "http://127.0.0.1:9001",
-        "http://11.243.1.149:9001"
+        "http://192.168.106.127:9001"
       ],
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
@@ -381,8 +381,8 @@
     },
     "initWechat": {
       "token": "bhu89ijnmko0",
-      "appID": "wxd61026a80b610e7c",
-      "appSecret": "<String len: 63>",
+      "appID": "wx58080b1fe9cb4f49",
+      "appSecret": "<String len: 32>",
       "encodingAESKey": "HX2DzbFRh9qY4toNv9XVL1kYxgoYCTwoZ3haN92kAzl",
       "getAccessToken": "<Function getAccessToken>",
       "saveAccessToken": "<Function saveAccessToken>"
