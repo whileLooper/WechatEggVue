@@ -24,8 +24,8 @@ module.exports = app => {
   app.get('/sass', app.controller.css.css.sass);
   app.get('/test', app.controller.test.test.index);
   app.get('/wechat', app.controller.wechat.wechat.index);
-  app.post('/wechat', app.controller.wechat.wechat.index);
+  // app.post('/wechat', app.controller.wechat.wechat.index);
 
   // api request
-  app.post('/admin/updateGreetingMSG', app.controller.admin.admin.updateGreetingMSG);
+  // app.post('/admin/updateGreetingMSG', app.controller.admin.admin.updateGreetingMSG);
 };
