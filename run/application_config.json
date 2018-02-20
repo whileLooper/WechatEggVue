@@ -12,17 +12,7 @@
       "genid": "<Function anonymous>"
     },
     "security": {
-      "domainWhiteList": [
-        "http://localhost:7001",
-        "http://127.0.0.1:7001",
-        "http://192.168.106.127:7001",
-        "http://localhost:9000",
-        "http://127.0.0.1:9000",
-        "http://192.168.106.127:9000",
-        "http://localhost:9001",
-        "http://127.0.0.1:9001",
-        "http://192.168.106.127:9001"
-      ],
+      "domainWhiteList": [],
       "protocolWhiteList": [],
       "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
       "csrf": {
@@ -96,16 +86,11 @@
         "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-i18n/config/locales",
         "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-watcher/config/locales",
         "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-multipart/config/locales",
-        "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-development/config/locales",
         "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-schedule/config/locales",
         "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logrotator/config/locales",
         "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-static/config/locales",
         "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-view/config/locales",
         "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-view-vue-ssr/config/locales",
-        "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-cors/config/locales",
-        "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-webpack/config/locales",
-        "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-webpack-vue/config/locales",
-        "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logview/config/locales",
         "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg/config/locales",
         "/Users/b004577/Documents/workshop/wechatEggVue/config/locales"
       ],
@@ -115,7 +100,7 @@
       "functionName": "__"
     },
     "watcher": {
-      "type": "development",
+      "type": "default",
       "eventSources": {
         "default": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-watcher/lib/event-sources/default",
         "development": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-watcher/lib/event-sources/development"
@@ -132,23 +117,10 @@
       "fileExtensions": [],
       "whitelist": null
     },
-    "development": {
-      "watchDirs": [
-        "build"
-      ],
-      "ignoreDirs": [
-        "app/web",
-        "public",
-        "config"
-      ],
-      "fastReady": false,
-      "reloadOnDebug": true,
-      "overrideDefault": false
-    },
     "customLogger": {
       "scheduleLogger": {
         "consoleLevel": "NONE",
-        "file": "/Users/b004577/Documents/workshop/wechatEggVue/logs/wechatEggVue/egg-schedule.log"
+        "file": "/Users/b004577/logs/wechatEggVue/egg-schedule.log"
       }
     },
     "logrotator": {
@@ -165,9 +137,9 @@
       "dir": "/Users/b004577/Documents/workshop/wechatEggVue/public",
       "dynamic": true,
       "preload": false,
-      "buffer": false,
+      "buffer": true,
       "maxFiles": 1000,
-      "maxAge": 0,
+      "maxAge": 31536000,
       "files": "<LRU>"
     },
     "view": {
@@ -187,7 +159,7 @@
       "manifest": "/Users/b004577/Documents/workshop/wechatEggVue/config/manifest.json",
       "injectHeadRegex": "/(<\\/head>)/i",
       "injectBodyRegex": "/(<\\/body>)/i",
-      "injectCss": false,
+      "injectCss": true,
       "injectJs": true,
       "crossorigin": false,
       "injectRes": [],
@@ -198,27 +170,7 @@
       },
       "afterRender": "<Function afterRender>"
     },
-    "cors": {
-      "origin": "<Function corsOrigin>"
-    },
-    "webpack": {
-      "port": 9000,
-      "proxy": true,
-      "proxyMapping": {
-        "js": "text/javascript; charset=UTF-8",
-        "css": "text/css; charset=UTF-8",
-        "json": "application/json; charset=UTF-8",
-        "html": "text/html; charset=UTF-8",
-        "map": "application/json; charset=UTF-8"
-      },
-      "webpackConfigList": []
-    },
-    "logview": {
-      "prefix": "__logs",
-      "staticHost": "https://unpkg.cnpmjs.org",
-      "dir": "/Users/b004577/Documents/workshop/wechatEggVue/logs"
-    },
-    "env": "local",
+    "env": "prod",
     "name": "wechatEggVue",
     "keys": "<String len: 6>",
     "proxy": false,
@@ -235,7 +187,7 @@
         "build:test": "cross-env easywebpack build test",
         "build:prod": "cross-env easywebpack build prod",
         "dll": "cross-env easywebpack build dev -f webpack.dll.js",
-        "start": "node index.js",
+        "start": "cross-env EGG_SERVER_ENV=prod NODE_ENV=production node index.js",
         "start:test": "cross-env EGG_SERVER_ENV=test node index.js",
         "start:prod": "cross-env EGG_SERVER_ENV=prod NODE_ENV=production npm start",
         "kill": "pkill --signal SIGINT egg-vue-webpack-boilerplate",
@@ -359,19 +311,17 @@
     "logger": {
       "dir": "/Users/b004577/Documents/workshop/wechatEggVue/logs",
       "encoding": "utf8",
-      "env": "local",
+      "env": "prod",
       "level": "INFO",
       "consoleLevel": "DEBUG",
-      "disableConsoleAfterReady": false,
+      "disableConsoleAfterReady": true,
       "outputJSON": false,
       "buffer": true,
       "appLogName": "wechatEggVue-web.log",
       "coreLogName": "egg-web.log",
       "agentLogName": "egg-agent.log",
       "errorLogName": "common-error.log",
-      "coreLogger": {
-        "consoleLevel": "WARN"
-      },
+      "coreLogger": {},
       "allowDebugAtProd": true,
       "type": "application"
     },
@@ -400,7 +350,6 @@
       "logging": false
     },
     "coreMiddleware": [
-      "cors",
       "meta",
       "siteFile",
       "notfound",
@@ -409,8 +358,7 @@
       "overrideMethod",
       "session",
       "securities",
-      "i18n",
-      "logview"
+      "i18n"
     ],
     "workerStartTimeout": 600000,
     "cluster": {
@@ -443,7 +391,6 @@
       "messagingSenderId": "401950336399"
     },
     "coreMiddlewares": [
-      "cors",
       "meta",
       "siteFile",
       "notfound",
@@ -452,8 +399,7 @@
       "overrideMethod",
       "session",
       "securities",
-      "i18n",
-      "logview"
+      "i18n"
     ],
     "appMiddlewares": [
       "access"
@@ -558,21 +504,6 @@
       "path": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-multipart",
       "version": "2.0.0"
     },
-    "development": {
-      "enable": true,
-      "package": "egg-development",
-      "name": "development",
-      "dependencies": [
-        "watcher"
-      ],
-      "optionalDependencies": [],
-      "env": [
-        "local"
-      ],
-      "from": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg/config/plugin.js",
-      "path": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-development",
-      "version": "2.2.0"
-    },
     "schedule": {
       "enable": true,
       "package": "egg-schedule",
@@ -629,56 +560,6 @@
       "from": "/Users/b004577/Documents/workshop/wechatEggVue/config/plugin.js",
       "path": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-view-vue-ssr",
       "version": "3.0.6"
-    },
-    "cors": {
-      "enable": true,
-      "package": "egg-cors",
-      "name": "cors",
-      "dependencies": [],
-      "optionalDependencies": [],
-      "env": [],
-      "from": "/Users/b004577/Documents/workshop/wechatEggVue/config/plugin.local.js",
-      "path": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-cors",
-      "version": "2.0.0"
-    },
-    "webpack": {
-      "enable": true,
-      "package": "egg-webpack",
-      "name": "webpack",
-      "dependencies": [],
-      "optionalDependencies": [],
-      "env": [
-        "local"
-      ],
-      "from": "/Users/b004577/Documents/workshop/wechatEggVue/config/plugin.local.js",
-      "path": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-webpack",
-      "version": "3.3.2"
-    },
-    "webpackvue": {
-      "enable": true,
-      "package": "egg-webpack-vue",
-      "name": "webpackvue",
-      "dependencies": [],
-      "optionalDependencies": [],
-      "env": [
-        "local"
-      ],
-      "from": "/Users/b004577/Documents/workshop/wechatEggVue/config/plugin.local.js",
-      "path": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-webpack-vue",
-      "version": "2.0.1"
-    },
-    "logview": {
-      "package": "egg-logview",
-      "env": [
-        "local"
-      ],
-      "enable": true,
-      "name": "logview",
-      "dependencies": [],
-      "optionalDependencies": [],
-      "from": "/Users/b004577/Documents/workshop/wechatEggVue/config/plugin.local.js",
-      "path": "/Users/b004577/Documents/workshop/wechatEggVue/node_modules/egg-logview",
-      "version": "1.0.0"
     }
   }
 }
