@@ -8,7 +8,7 @@
     "build:test": "cross-env easywebpack build test",
     "build:prod": "cross-env easywebpack build prod",
     "dll": "cross-env easywebpack build dev -f webpack.dll.js",
-    "start": "easywebpack build prod node index.js",
+    "start": "cross-env EGG_SERVER_ENV=prod NODE_ENV=production node index.js",
     "start:test": "cross-env EGG_SERVER_ENV=test node index.js",
     "start:prod": "cross-env EGG_SERVER_ENV=prod NODE_ENV=production npm start",
     "kill": "pkill --signal SIGINT egg-vue-webpack-boilerplate",
@@ -21,6 +21,7 @@
   "dependencies": {
     "axios": "^0.17.1",
     "bluebird": "^3.5.1",
+    "cross-env": "^5.1.3",
     "egg": "^2.1.0",
     "egg-cors": "^2.0.0",
     "egg-logger": "^1.5.0",
