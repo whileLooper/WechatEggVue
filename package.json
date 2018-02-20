@@ -8,7 +8,7 @@
     "build:test": "cross-env easywebpack build test",
     "build:prod": "cross-env easywebpack build prod",
     "dll": "cross-env easywebpack build dev -f webpack.dll.js",
-    "start": "node index.js",
+    "start": "cross-env EGG_SERVER_ENV=prod NODE_ENV=production npm start",
     "start:test": "cross-env EGG_SERVER_ENV=test node index.js",
     "start:prod": "cross-env EGG_SERVER_ENV=prod NODE_ENV=production npm start",
     "kill": "pkill --signal SIGINT egg-vue-webpack-boilerplate",
